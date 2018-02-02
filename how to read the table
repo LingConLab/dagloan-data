@@ -1,0 +1,52 @@
+How to read the table
+
+**THE TABLE IS CURRENTLY UNDER CONSTRUCTION**
+All columns are filled out so far only for items 1.1-2.522 (according to the LWT_code when sorted ascending). 
+
+
+A LWT_code
+WOLD code of a particular meaning.
+
+B semantic_field 
+semantic category to which an item belongs (also corresponds to WOLD classification).
+
+C part_of_speech
+part of speech to which the meaning-item belongs in English, often also the expected/desired part of speech for the target language. This may differ from reality, e.g. in East Caucasian adjectives or nouns inflected for case may appear in answer to a substantive input.
+
+D list
+this column shows whether a meaning is present in the data for both Archi and Bezhta (common) or whether it shows up in only one of them.
+
+E english
+corresponds to "Meaning" from WOLD.
+
+F description
+optional additional description of the desired meaning in case of lexemes that may be ambiguous either in English of Russian.
+
+G russian
+Russian translation of the English meaning items used to find (in the dictionary) or elicit (with speakers) items. This does not relate to the data from Archi and Bezhta, as they were collected by other researchers.
+
+H unique_entry
+indicates whether a meaning has multiple translations in one of the languages. Lines marked duplicate contain an additional translation, cf. the column "unique_entry" with the column "english". This is in case we want to filter out such duplicates and use only one word per meaning.
+
+I cognate_set
+Shows the different cognate sets. Each unique root is assigned a letter in alphabetical order. Sets of cognates are formed based on similarity (judged by the researcher and not measured quantitatively).
+
+J archi_word
+shows the Archi translation of a meaning.
+
+K archi
+indicates whether the Archi word from column J belongs to the cognate set of column I. 1 = yes, 0 = no.
+
+L archi_source_word
+the alleged lexical source of an alleged borrowing (from WOLD); here and there edited.
+
+M archi_source_language
+alleged source language from which an alleged loan is borrowed (also from WALS and here and there edited). Also contains values "Non loan" and "Unidentified". In this case "Unidentified" means: this is a loan, but it is not clear from which language it was borrowed. 
+
+N borrowed_status
+indicates the likelihood of this lexeme being borrowed (from WOLD). Included for reference.
+
+The Bezhta columns are organized in the same order.
+For Avar, only word, cognate set membership and some comments on the lexical items are added. 
+
+
