@@ -37,27 +37,71 @@ library(knitr)
 
 - Selection of frequently borrowed concepts - ~225 items
 
+--
+
+- Comparison of Archi (Lezgic) and Bezhta (Tsezic) from WOLD. *(Not all items from our shortlist are represented in this data.)*
 
 ---
 
-## Shortlist versus longlist
+## Shortlist versus WOLD longlist
 
 ```{r, echo = F, results = 'asis'}
 
 count <- read_tsv("loancount.csv")
+colnames(count) <- c("Archi", "long", "%", "short", "%",
+                     "Bezhta", "long", "%", "short", "%")
 
-kable(count)
+kable(count[,1:5], format = "html")
 
 
 ```
----
 
-## Similarity matrix
-
-
-
+Similar percentages for most values, 
+*but* a relatively large amount of **non loans**.
 
 ---
+
+## Shortlist versus WOLD longlist
+
+```{r, echo = F, results = 'asis'}
+
+count <- read_tsv("loancount.csv")
+colnames(count) <- c("Archi", "long", "%", "short", "%",
+                     "Bezhta", "long", "%", "short", "%")
+
+kable(count[,6:10], format = "html")
+
+
+```
+
+Percentage of Georgian borrowings rises relatively, while Avar drops.
+
+---
+
+## Shortlist versus WOLD longlist
+
+- The shortlist captures similar percentages to the long list
+
+--
+
+- For Archi, they concur with data on multilingualism (many people speak Avar, some speak Lak)
+
+--
+
+- But also many non loans
+
+--
+
+- Relative rise of Georgian borrowings in Bezhta is due to everyday objects (e.g. 'spoon', 'candle')
+
+--
+
+- Drop in percentage of Avar loans is due to abstract concepts and adjectives
+
+
+---
+
+
 class: inverse, center, middle
 
 ## Fieldwork
@@ -80,6 +124,25 @@ map.feature(loan$Language,
             zoom.control = T)
 
 ```
+
+---
+
+## Similarity matrix
+
+- Lexemes from different lects are grouped by similarity
+
+--
+
+- **Example?**
+
+--
+
+- * Python magic *
+
+--
+
+- Clusters of lects based on the number of similar lexemes
+
 
 ---
 
