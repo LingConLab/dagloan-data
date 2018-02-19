@@ -27,7 +27,7 @@ library(knitr)
 
 ## Shortlist
 
-- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items
+- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items 
 
 --
 
