@@ -34,7 +34,7 @@ class: center, middle, inverse, title-slide
 
 ## Shortlist
 
-- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items
+- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items 
 
 --
 
@@ -42,7 +42,7 @@ class: center, middle, inverse, title-slide
 
 --
 
-- Selection of frequently borrowed concepts - ~225 items
+- Selection of concepts with assumedly high borrowability - ~225 items
 
 --
 
@@ -278,9 +278,11 @@ class: inverse, center, middle
 
 ---
 
-## Similarity to distance matrix
+## From similarity sets to distance matrix
 
-- Lexemes from different lects are grouped by similarity with numbers
+- Lexemes from different lects are grouped into similarity sets
+Each set is coded with a number. One language may use several lexical items and thus be ascribed several similarity sets.
+Count similarities between lects by counting how many similarity sets two lects share. (SV-style below)
 
 --
 
@@ -329,18 +331,21 @@ class: inverse, center, middle
 
 --
 
-- Remove "stop-words". If a meaning is represented by different roots in each lect - remove the row.
+- We want to assess proximity by contact not by origin. Similarity by cognates does not count. 
+Similarity sets are only counted if it goes beyond a set of closely related languages.
+Lines where similarity sets are contained in e.g. Turkic only or Rutul only are excluded from the counts. (MD-style below)
 
 --
 
-- Number of times two languages share a (similar) root is converted into a distance matrix
+- Number of times two languages share a similarity set is converted into a distance matrix
 
 ---
 
 
 ## Similarity to distance matrix
 
-- Number of times two languages share a (similar) root is converted into a distance matrix
+- The number of times two languages share a similarity set is converted into a distance matrix 
+The number of shared sets divided by the number of meanings (minus the meanings for which one of the lects had not data)
 
 --
 &lt;table&gt;
@@ -386,16 +391,18 @@ class: inverse, center, middle
 
 ---
 
-## Distance between major languages
-
-![](20022018-talk_files/figure-html/unnamed-chunk-6-1.png)&lt;!-- --&gt;
-
----
-
 ## Rutul area
 
-![](20022018-talk_files/figure-html/unnamed-chunk-7-1.png)&lt;!-- --&gt;
+![](20022018-talk_files/figure-html/unnamed-chunk-6-1.png)&lt;!-- --&gt;
 ---
+
+## Distance between major languages
+
+![](20022018-talk_files/figure-html/unnamed-chunk-7-1.png)&lt;!-- --&gt;
+
+---
+
+
 
 ## Avar area
 
