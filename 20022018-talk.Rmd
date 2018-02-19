@@ -1,0 +1,126 @@
+---
+title: "Quantifying lexical contact in Daghestan"
+author: "M. Daniel, I. Chechuro, S. Verhees"
+date: "20.02.2018 <br> Linguistic Convergence Lab Seminar"
+output:
+  xaringan::moon_reader:
+    css: ["default", "my_theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE,
+                      message=FALSE,
+                      warning= FALSE,
+                      fig.width=10.4,
+                      fig.height=7)
+library(tidyverse)
+library(lingtypology)
+library(phangorn)
+library(knitr)
+```
+
+## Shortlist
+
+- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items
+
+--
+
+- Gathered in all major languages from dictionaries: Avar, Standard Dargwa, Lezgian, Lak, Chechen, *Kumyk, Azeri*
+
+--
+
+- Selection of frequently borrowed concepts - ~225 items
+
+
+---
+
+## Shortlist versus longlist
+
+```{r, echo = F, results = 'asis'}
+
+count <- read_tsv("loancount.csv")
+
+kable(count)
+
+
+```
+---
+
+## Similarity matrix
+
+
+
+
+---
+class: inverse, center, middle
+
+## Fieldwork
+
+```{r, fig.height=7}
+
+# general area map
+
+loan <- read_csv("loan_villages.csv")
+
+map.feature(loan$Language,
+            features = loan$Language,
+            tile = c("Esri.OceanBasemap"),
+            color = loan$color,
+            latitude = loan$Lat,
+            longitude = loan$Lon,
+            title = "Language",
+            label = loan$EngNames,
+            label.hide = F,
+            zoom.control = T)
+
+```
+
+---
+
+## Distance between major languages
+
+```{r}
+
+Big_dist <- read.csv("Big_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
+View(Big_dist)
+Big_dist <- as.dist(Big_dist)
+nnet <- neighborNet(Big_dist)
+plot(nnet, "2D")
+
+```
+
+---
+
+## Rutul area
+
+```{r}
+
+Rutul_dist <- read.csv("rutul_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
+View(Rutul_dist)
+Rutul_dist <- as.dist(Rutul_dist)
+nnet <- neighborNet(Rutul_dist)
+plot(nnet, "2D")
+
+```
+---
+
+## Avar area
+
+
+---
+
+## Problems
+
+
+---
+
+## Further plans
+
+
+
