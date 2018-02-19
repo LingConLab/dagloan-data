@@ -278,34 +278,123 @@ class: inverse, center, middle
 
 ---
 
-## Similarity matrix
+## Similarity to distance matrix
 
-- Lexemes from different lects are grouped by similarity
-
---
-
-- **Example?**
+- Lexemes from different lects are grouped by similarity with numbers
 
 --
 
-- * Python magic *
+&lt;table&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style="text-align:left;"&gt; meaning &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; Rutul Rutul &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; root &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; Kina Rutul &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; root_1 &lt;/th&gt;
+   &lt;th style="text-align:left;"&gt; Khlut Lezgian &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; root_2 &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; the watermelon &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; хъарпуз &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; хъарпыз &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; хъарпуз &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; the carrot &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; абадур &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; абадур &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; газар &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; the broom &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; мугул &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 1 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; хьырыс &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 2 &lt;/td&gt;
+   &lt;td style="text-align:left;"&gt; кул &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 3 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 --
 
-- Clusters of lects based on the number of similar lexemes
+- Remove "stop-words". If a meaning is represented by different roots in each lect - remove the row.
 
+--
+
+- Number of times two languages share a (similar) root is converted into a distance matrix
+
+---
+
+
+## Similarity to distance matrix
+
+- Number of times two languages share a (similar) root is converted into a distance matrix
+
+--
+&lt;table&gt;
+ &lt;thead&gt;
+  &lt;tr&gt;
+   &lt;th style="text-align:left;"&gt;   &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; DAzer &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; DKumyk &lt;/th&gt;
+   &lt;th style="text-align:right;"&gt; DLezgian &lt;/th&gt;
+  &lt;/tr&gt;
+ &lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; DAzer &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.0000000 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.6134454 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.7435897 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; DKumyk &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.6134454 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.0000000 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.7478992 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; DLezgian &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.7435897 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.7478992 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.0000000 &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+   &lt;td style="text-align:left;"&gt; DRutul &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.6971154 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.7089202 &lt;/td&gt;
+   &lt;td style="text-align:right;"&gt; 0.6509434 &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+--
+
+- Distance matrix forms the input for a neighbournet visualization
 
 ---
 
 ## Distance between major languages
 
-![](20022018-talk_files/figure-html/unnamed-chunk-4-1.png)&lt;!-- --&gt;
+![](20022018-talk_files/figure-html/unnamed-chunk-6-1.png)&lt;!-- --&gt;
 
 ---
 
 ## Rutul area
 
-![](20022018-talk_files/figure-html/unnamed-chunk-5-1.png)&lt;!-- --&gt;
+![](20022018-talk_files/figure-html/unnamed-chunk-7-1.png)&lt;!-- --&gt;
 ---
 
 ## Avar area
