@@ -111,16 +111,13 @@ library(knitr)
 ```{r, echo = F, results = 'asis'}
 
 count <- read_tsv("loancount.csv")
-colnames(count) <- c("Archi", "long", "%", "short", "%",
-                     "Bezhta", "long", "%", "short", "%")
+colnames(count) <- c("Archi", "WOLD", "%", "short", "%",
+                     "Bezhta", "WOLD", "%", "short", "%")
 
 kable(count[,1:5], format = "html")
 
 
 ```
-
-Similar percentages for most values, 
-*but* a relatively large amount of **non loans**.
 
 ---
 
@@ -129,15 +126,13 @@ Similar percentages for most values,
 ```{r, echo = F, results = 'asis'}
 
 count <- read_tsv("loancount.csv")
-colnames(count) <- c("Archi", "long", "%", "short", "%",
-                     "Bezhta", "long", "%", "short", "%")
+colnames(count) <- c("Archi", "WOLD", "%", "short", "%",
+                     "Bezhta", "WOLD", "%", "short", "%")
 
 kable(count[,6:10], format = "html")
 
 
 ```
-
-Percentage of Georgian borrowings rises relatively.
 
 ---
 
@@ -268,9 +263,9 @@ class: inverse, center, middle
 
 ```{r}
 
-Rutul_dist <- read.csv("rutul_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
-Rutul_dist <- as.dist(Rutul_dist)
-nnet <- neighborNet(Rutul_dist)
+Rutul_SV <- read.csv("Rutul_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_SV <- as.dist(Rutul_SV)
+nnet <- neighborNet(Rutul_SV)
 plot(nnet, "2D")
 
 ```
@@ -304,6 +299,14 @@ The idea is to measure distance based on loans only.
 
 ## Rutul area similarity matrix (SV style)
 
+```{r}
+
+Rutul_No_Stopwords_SV <- read.csv("Rutul_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_No_Stopwords_SV <- as.dist(Rutul_No_Stopwords_SV)
+nnet <- neighborNet(Rutul_No_Stopwords_SV)
+plot(nnet, "2D")
+
+```
 
 ---
 
@@ -350,9 +353,9 @@ Visualizations based on the same variables as the Rutul data.
 
 ```{r}
 
-Big_dist <- read.csv("Big_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
-Big_dist <- as.dist(Big_dist)
-nnet <- neighborNet(Big_dist)
+Big_LGS_SV <- read.csv("Big_LGS_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_SV <- as.dist(Big_LGS_SV)
+nnet <- neighborNet(Big_LGS_SV)
 plot(nnet, "2D")
 
 ```
@@ -385,6 +388,14 @@ The idea is to measure distance based on loans only.
 
 ## Major languages similarity matrix (SV style)
 
+```{r}
+
+Big_LGS_No_Stopwords_SV <- read.csv("Big_LGS_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_SV <- as.dist(Big_LGS_No_Stopwords_SV)
+nnet <- neighborNet(Big_LGS_No_Stopwords_SV)
+plot(nnet, "2D")
+
+```
 
 ---
 
