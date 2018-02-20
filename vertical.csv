@@ -1,61 +1,61 @@
-"","english","archi_word","archi_source_word","archi_source_language","bezhta_word","bezhta_source_word","bezhta_source_language"
-"1","the wasp","ʕalχul t'ant'","ʕalχul (wild)","Arabic",NA,NA,NA
-"2","the corpse","zanazi","janazat (corpse)","Arabic","žanaza","janāza 'corpse' Arabic; žanaza 'corpse' Avar","Avar, Arabic"
-"3","the blister","pil (2)","pil (elephant)","Persian",NA,NA,NA
-"4","the poison","zahru","zahru (poison)","Persian","zahru","zahru 'poison' Avar; zahr 'poison' Persian","Avar, Persian"
-"5","the sugar","čekar","čekar (sugar)","Persian","čakar","čakar 'sugar' Avar; šakar 'sugar' Persian","Avar, Persian"
-"6","the floor","pol","pol (floor)","Russian","müžö","pol 'floor'","Russian"
-"7","the floor","pol","pol (floor)","Russian","pol","pol 'floor'","Russian"
-"8","the table","ustul","stol (table)","Russian","ist’oli","st’oli 'table' Georgian; stol 'table' Russian","Georgian, Russian"
-"9","the lamp or torch","čaraχ","čaraχ (lamp) ","Persian","lampa","lámpa 'lamp'","Russian"
-"10","the lamp or torch","čaraχ","čaraχ (lamp) ","Persian","panar","fonar´ 'lantern'","Russian"
-"11","the candle","sweča","sveča (candle)","Russian",NA,NA,NA
-"12","the brick","kirpič","kírpič (brick)","Russian","kirpič","kírpič 'brick'","Russian"
-"13","the garden","baʁ","baʁ (garden)","Persian","baɣi","baɣ 'garden' Turkic, baɣi 'garden' Georgian","Georgian, Turkic, Persian"
-"14","the spade","bel","bel (spade)","Persian",NA,NA,NA
-"15","the rice","birinž","birinž (rice)","Persian","birinži","berenj 'rice' Persian; brinǰi 'rice' Georgian","Georgian, Persian"
-"16","the pipe","muštʼukʼ","mundštuk (cigarette holder)","Russian","müštük’","mundštuk 'cigarette-holder' Russian; muštuk’i 'pipe; cigarette-holder' Georgian","Georgian, Russian"
-"17","the axe/ax","tabərzan","topor (axe)","Russian",NA,NA,NA
-"18","the paint","sːir","sːir (paint)","Avar, Persian","karaska","kraska 'paint, dye'","Russian"
-"19","the whetstone","čarχ","čarχ (spool)","Persian","čarx","čarx 'whetstone' Avar, čarxi 'lathe' Georgian","Georgian, Avar, Persian"
-"20","the shop/store","tukan","dakkan (shop)","Arabic","koparat","kooperativ 'cooperative shop'","Russian"
-"21","the shop/store","tukan","dakkan (shop)","Arabic","magazin","magasin 'shop/store' French; magazin 'shop/store' Russian","Russian"
-"22","the time","zaman","zaman (time, season)","Arabic","zaman","zaman, zamān 'time' Arabic; zaman 'time' Avar","Avar, Arabic"
-"23","Sunday","alħat","al-aħat (sunday)","Arabic","wixadnoy","vyxodnoj (den´) 'work-free (day)'","Russian"
-"24","Monday","panidelnik","ponedelnik (monday)","Russian","itni","itni 'Monday' Avar; ’iθnayni 'Monday' Arabic","Avar, Arabic"
-"25","Monday","panidelnik","ponedelnik (monday)","Russian","panidennik","ponedel´nik 'Monday'","Russian"
-"26","Tuesday","dalatːut iq","at-talit (tuesday)","Arabic","talat","talat 'Tuesday' Avar; θalāθā’ 'Tuesday' Arabic","Avar, Arabic"
-"27","Tuesday","dalatːut iq","at-talit (tuesday)","Arabic","ftornik","vtornik 'Tuesday' ","Russian"
-"28","Wednesday","aˤrbatːut iq","al-arbaʕat (wednesday, fourth)","Arabic","arbaʔ","’arbiʕā’ 'Wednesday' Arabic; arbaʕ 'Wednesday' Avar","Avar, Arabic"
-"29","Wednesday","aˤrbatːut iq","al-arbaʕat (wednesday, fourth)","Arabic","sereda","sreda 'Wednesday'","Russian"
-"30","Thursday","četverg","četverg (thursday)","Russian","četverg","četverg 'Thursday'","Russian"
-"31","Thursday","četverg","četverg (thursday)","Russian","xamiz","xamīs 'Thursday' Arabic; xamiz 'Thursday' Avar","Avar, Arabic"
-"32","the colour/color","rang","ræng (colour)","Persian",NA,NA,NA
-"33","the soul or spirit","ruħ","ruħ (soul, spirit)","Avar, Arabic","rüh","ruħ 'soul, spirit' Avar; rūħ 'soul, spirit' Arabic","Avar, Arabic"
-"34","the school","učχol","učkol (abbreviation of učebnyj kollectiv) 'abbrev. of teaching collective'","Russian","iškola","škóla 'school","Russian"
-"35","the paper","kaʁəra","kaʁäz (paper, letter, document)","Persian",NA,NA,NA
-"36","the boundary","daˤzi","Unidentified","Avar, Arabic",NA,NA,NA
-"37","the slave","nukar","nukar (slave, servant)","Persian",NA,NA,NA
-"38","the guard","oχran","oxrana (guard)","Russian",NA,NA,NA
-"39","the prison","tusnaqʼ","tusnaq’ (prison)","Avar, Persian",NA,NA,NA
-"40","the number","tariχ","tarix (number)","Arabic","nomer","nómer 'number' Russian; numerus 'number' Latin","Russian"
-"41","the letter","kaʁəra","kaʁäz (paper, letter, document)","Persian","kaɣay","kaɣat 'letter'","Avar, Persian"
-"42","the bottle","šuša","šiša (bottle)","Persian","šuša","šuša 'bottle' Georgian; šiše 'bottle' Persian","Georgian, Persian"
-"43","the cattle",NA,NA,NA,"häymän","ħayawān 'animal' Arabic;
+english,archi_word,archi_source_word,archi_source_language,bezhta_word,bezhta_source_word,bezhta_source_language
+the wasp,ʕalχul t'ant',ʕalχul (wild),Arabic,NA,NA,NA
+the corpse,zanazi,janazat (corpse),Arabic,žanaza,janāza 'corpse' Arabic; žanaza 'corpse' Avar,"Avar, Arabic"
+the blister,pil (2),pil (elephant),Persian,NA,NA,NA
+the poison,zahru,zahru (poison),Persian,zahru,zahru 'poison' Avar; zahr 'poison' Persian,"Avar, Persian"
+the sugar,čekar,čekar (sugar),Persian,čakar,čakar 'sugar' Avar; šakar 'sugar' Persian,"Avar, Persian"
+the floor,pol,pol (floor),Russian,müžö,pol 'floor',Russian
+the floor,pol,pol (floor),Russian,pol,pol 'floor',Russian
+the table,ustul,stol (table),Russian,ist’oli,st’oli 'table' Georgian; stol 'table' Russian,"Georgian, Russian"
+the lamp or torch,čaraχ,čaraχ (lamp) ,Persian,lampa,lámpa 'lamp',Russian
+the lamp or torch,čaraχ,čaraχ (lamp) ,Persian,panar,fonar´ 'lantern',Russian
+the candle,sweča,sveča (candle),Russian,NA,NA,NA
+the brick,kirpič,kírpič (brick),Russian,kirpič,kírpič 'brick',Russian
+the garden,baʁ,baʁ (garden),Persian,baɣi,"baɣ 'garden' Turkic, baɣi 'garden' Georgian","Georgian, Turkic, Persian"
+the spade,bel,bel (spade),Persian,NA,NA,NA
+the rice,birinž,birinž (rice),Persian,birinži,berenj 'rice' Persian; brinǰi 'rice' Georgian,"Georgian, Persian"
+the pipe,muštʼukʼ,mundštuk (cigarette holder),Russian,müštük’,mundštuk 'cigarette-holder' Russian; muštuk’i 'pipe; cigarette-holder' Georgian,"Georgian, Russian"
+the axe/ax,tabərzan,topor (axe),Russian,NA,NA,NA
+the paint,sːir,sːir (paint),"Avar, Persian",karaska,"kraska 'paint, dye'",Russian
+the whetstone,čarχ,čarχ (spool),Persian,čarx,"čarx 'whetstone' Avar, čarxi 'lathe' Georgian","Georgian, Avar, Persian"
+the shop/store,tukan,dakkan (shop),Arabic,koparat,kooperativ 'cooperative shop',Russian
+the shop/store,tukan,dakkan (shop),Arabic,magazin,magasin 'shop/store' French; magazin 'shop/store' Russian,Russian
+the time,zaman,"zaman (time, season)",Arabic,zaman,"zaman, zamān 'time' Arabic; zaman 'time' Avar","Avar, Arabic"
+Sunday,alħat,al-aħat (sunday),Arabic,wixadnoy,vyxodnoj (den´) 'work-free (day)',Russian
+Monday,panidelnik,ponedelnik (monday),Russian,itni,itni 'Monday' Avar; ’iθnayni 'Monday' Arabic,"Avar, Arabic"
+Monday,panidelnik,ponedelnik (monday),Russian,panidennik,ponedel´nik 'Monday',Russian
+Tuesday,dalatːut iq,at-talit (tuesday),Arabic,talat,talat 'Tuesday' Avar; θalāθā’ 'Tuesday' Arabic,"Avar, Arabic"
+Tuesday,dalatːut iq,at-talit (tuesday),Arabic,ftornik,vtornik 'Tuesday' ,Russian
+Wednesday,aˤrbatːut iq,"al-arbaʕat (wednesday, fourth)",Arabic,arbaʔ,’arbiʕā’ 'Wednesday' Arabic; arbaʕ 'Wednesday' Avar,"Avar, Arabic"
+Wednesday,aˤrbatːut iq,"al-arbaʕat (wednesday, fourth)",Arabic,sereda,sreda 'Wednesday',Russian
+Thursday,četverg,četverg (thursday),Russian,četverg,četverg 'Thursday',Russian
+Thursday,četverg,četverg (thursday),Russian,xamiz,xamīs 'Thursday' Arabic; xamiz 'Thursday' Avar,"Avar, Arabic"
+the colour/color,rang,ræng (colour),Persian,NA,NA,NA
+the soul or spirit,ruħ,"ruħ (soul, spirit)","Avar, Arabic",rüh,"ruħ 'soul, spirit' Avar; rūħ 'soul, spirit' Arabic","Avar, Arabic"
+the school,učχol,učkol (abbreviation of učebnyj kollectiv),Russian,iškola,škóla 'school,Russian
+the paper,kaʁəra,"kaʁäz (paper, letter, document)",Persian,NA,NA,NA
+the boundary,daˤzi,Unidentified,"Avar, Arabic",NA,NA,NA
+the slave,nukar,"nukar (slave, servant)",Persian,NA,NA,NA
+the guard,oχran,oxrana (guard),Russian,NA,NA,NA
+the prison,tusnaqʼ,tusnaq’ (prison),"Avar, Persian",NA,NA,NA
+the number,tariχ,tarix (number),Arabic,nomer,nómer 'number' Russian; numerus 'number' Latin,Russian
+the letter,kaʁəra,"kaʁäz (paper, letter, document)",Persian,kaɣay,kaɣat 'letter',"Avar, Persian"
+the bottle,šuša,šiša (bottle),Persian,šuša,šuša 'bottle' Georgian; šiše 'bottle' Persian,"Georgian, Persian"
+the cattle,NA,NA,NA,häymän,"ħayawān 'animal' Arabic;
 ħaywan 'cattle, animal' Avar","Avar, Arabic"
-"44","the medicine",NA,NA,NA,"daru","dãru 'medicine' Persian; daru 'medicine' Avar","Avar, Persian"
-"45","the medicine",NA,NA,NA,"darman","darmān 'medicine' Persian; darman 'medicine' Avar","Avar, Persian"
-"46","the tongs",NA,NA,NA,"kalbatun","kalba(tun) 'tongs'","Arabic"
-"47","the pepper",NA,NA,NA,"p’ilp’il","p’ilp’ili 'pepper' Georgian; pilpil 'pepper' Persian","Georgian, Persian"
-"48","the pocket",NA,NA,NA,"kisa","kīs 'sack, bag, pouch, purse' Arabic; kisa 'pocket' Avar","Avar, Arabic"
-"49","the towel",NA,NA,NA,"palatenca","polotence 'towel'","Russian"
-"50","the blanket",NA,NA,NA,"adiyal","odejalo 'blanket'","Russian"
-"51","the chain",NA,NA,NA,"raxas","raxas 'chain' Avar; röxïs 'chain' Ossetian","Avar, Ossetian"
-"52","the glue",NA,NA,NA,"keley","klej 'glue'","Russian"
-"53","the price",NA,NA,NA,"baha","bahā 'price' Persian; baha 'price' Avar","Avar, Persian"
-"54","the ball",NA,NA,NA,"šar","šar 'sphere, ball'","Russian"
-"55","Friday",NA,NA,NA,"pijatnica","pjatnica 'Friday'","Russian"
-"56","Saturday",NA,NA,NA,"subota","subota 'Saturday'","Russian"
-"57","Saturday",NA,NA,NA,"šamat","ššamat 'Saturday' Avar; sabt 'saturday' Arabic","Avar, Arabic"
-"58","the clan",NA,NA,NA,"ahlo","ahlu 'extended family' Avar; ’ahl Arabic","Avar, Arabic"
-"59","the gun",NA,NA,NA,"topi","tupi 'gun' Georgian; top 'gun' Turkic","Georgian, Turkic"
+the medicine,NA,NA,NA,daru,dãru 'medicine' Persian; daru 'medicine' Avar,"Avar, Persian"
+the medicine,NA,NA,NA,darman,darmān 'medicine' Persian; darman 'medicine' Avar,"Avar, Persian"
+the tongs,NA,NA,NA,kalbatun,kalba(tun) 'tongs',Arabic
+the pepper,NA,NA,NA,p’ilp’il,p’ilp’ili 'pepper' Georgian; pilpil 'pepper' Persian,"Georgian, Persian"
+the pocket,NA,NA,NA,kisa,"kīs 'sack, bag, pouch, purse' Arabic; kisa 'pocket' Avar","Avar, Arabic"
+the towel,NA,NA,NA,palatenca,polotence 'towel',Russian
+the blanket,NA,NA,NA,adiyal,odejalo 'blanket',Russian
+the chain,NA,NA,NA,raxas,raxas 'chain' Avar; röxïs 'chain' Ossetian,"Avar, Ossetian"
+the glue,NA,NA,NA,keley,klej 'glue',Russian
+the price,NA,NA,NA,baha,bahā 'price' Persian; baha 'price' Avar,"Avar, Persian"
+the ball,NA,NA,NA,šar,"šar 'sphere, ball'",Russian
+Friday,NA,NA,NA,pijatnica,pjatnica 'Friday',Russian
+Saturday,NA,NA,NA,subota,subota 'Saturday',Russian
+Saturday,NA,NA,NA,šamat,ššamat 'Saturday' Avar; sabt 'saturday' Arabic,"Avar, Arabic"
+the clan,NA,NA,NA,ahlo,ahlu 'extended family' Avar; ’ahl Arabic,"Avar, Arabic"
+the gun,NA,NA,NA,topi,tupi 'gun' Georgian; top 'gun' Turkic,"Georgian, Turkic"

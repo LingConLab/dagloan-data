@@ -1,0 +1,151 @@
+---
+title: "Quantifying lexical contact in Daghestan"
+author: "M. Daniel, I. Chechuro, S. Verhees"
+date: "20.02.2018 <br> Linguistic Convergence Lab Seminar"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE,
+                      message=FALSE,
+                      warning= FALSE,
+                      fig.width=10.4,
+                      fig.height=7)
+library(tidyverse)
+library(lingtypology)
+library(phangorn)
+library(knitr)
+```
+
+# Similarity matrices
+
+**Similarity matrix SV style**
+
+Each meaning can correspond to one or more words in a given language. Each distinct lexeme gets its own row; languages are marked 1 if the lexeme/root is represented, 0 if this is not the case. Similarity is measured by the number of times languages share a 1 on the same row.
+
+
+**Similarity matrix MD style**
+
+Each meaning can correspond to one or more words in a given language. Each distinct lexeme is assigned a number; a distance matrix is created from the number of times languages share the same lexeme (i.e. share 1 or more numbers on a row) / number of meanings. 
+
+
+# Visualizations
+
+**Rutul area (SV style)**
+
+1.
+```{r}
+
+Rutul_SV <- read.csv("Rutul_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_SV <- as.dist(Rutul_SV)
+nnet <- neighborNet(Rutul_SV)
+plot(nnet, "2D")
+
+```
+
+
+**Rutul area (MD style)**
+
+2.
+```{r}
+
+Rutul_MD <- read.csv("Rutul_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_MD <- as.dist(Rutul_MD)
+nnet <- neighborNet(Rutul_MD)
+plot(nnet, "2D")
+
+```
+
+### Without "stop words"
+
+If a meaning has a different lexeme in each language, remove it.
+The idea is to measure distance based on loans only.
+
+
+**Rutul area (SV style)**
+
+3.
+```{r}
+
+Rutul_No_Stopwords_SV <- read.csv("Rutul_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_No_Stopwords_SV <- as.dist(Rutul_No_Stopwords_SV)
+nnet <- neighborNet(Rutul_No_Stopwords_SV)
+plot(nnet, "2D")
+
+```
+
+
+**Rutul area distance matrix (MD style)**
+
+4.
+```{r}
+
+Rutul_No_Stopwords_MD <- read.csv("Rutul_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_No_Stopwords_MD <- as.dist(Rutul_No_Stopwords_MD)
+nnet <- neighborNet(Rutul_No_Stopwords_MD)
+plot(nnet, "2D")
+
+```
+
+### Distance between major languages
+Based on a larger subset of the WOLD questionnaire.
+Data gathered from dictionaries.
+Visualizations based on the same variables as the Rutul data.
+
+
+**Major languages (SV style)**
+
+4.
+```{r}
+
+Big_LGS_SV <- read.csv("Big_LGS_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_SV <- as.dist(Big_LGS_SV)
+nnet <- neighborNet(Big_LGS_SV)
+plot(nnet, "2D")
+
+```
+
+
+** Major languages (MD style)**
+
+5.
+```{r}
+
+Big_LGS_MD <- read.csv("Big_LGS_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_MD <- as.dist(Big_LGS_MD)
+nnet <- neighborNet(Big_LGS_MD)
+plot(nnet, "2D")
+
+```
+
+### Without "stop words"
+If a meaning has a different lexeme in each language, remove it.
+The idea is to measure distance based on loans only.
+
+
+**Major languages (SV style)**
+
+6.
+```{r}
+
+Big_LGS_No_Stopwords_SV <- read.csv("Big_LGS_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_SV <- as.dist(Big_LGS_No_Stopwords_SV)
+nnet <- neighborNet(Big_LGS_No_Stopwords_SV)
+plot(nnet, "2D")
+
+```
+
+
+**Major languages (MD style)**
+
+7.
+```{r}
+
+Big_LGS_No_Stopwords_MD <- read.csv("Big_LGS_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_MD <- as.dist(Big_LGS_No_Stopwords_MD)
+nnet <- neighborNet(Big_LGS_No_Stopwords_MD)
+plot(nnet, "2D")
+
+```
+
