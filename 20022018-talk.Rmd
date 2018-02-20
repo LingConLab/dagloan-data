@@ -255,7 +255,6 @@ kable(dist[1:4,1:3], format = "html")
 
 - Distance matrix forms the input for a neighbournet visualization
 
----
 
 ---
 
@@ -270,7 +269,6 @@ class: inverse, center, middle
 ```{r}
 
 Rutul_dist <- read.csv("rutul_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
-View(Rutul_dist)
 Rutul_dist <- as.dist(Rutul_dist)
 nnet <- neighborNet(Rutul_dist)
 plot(nnet, "2D")
@@ -283,6 +281,16 @@ plot(nnet, "2D")
 
 
 ## Rutul area distance matrix (MD style)
+
+```{r}
+
+Rutul_MD <- read.csv("Rutul_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_MD <- as.dist(Rutul_MD)
+nnet <- neighborNet(Rutul_MD)
+plot(nnet, "2D")
+
+```
+
 
 ---
 
@@ -302,6 +310,14 @@ The idea is to measure distance based on loans only.
 
 ## Rutul area distance matrix (MD style)
 
+```{r}
+
+Rutul_No_Stopwords_MD <- read.csv("Rutul_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Rutul_No_Stopwords_MD <- as.dist(Rutul_No_Stopwords_MD)
+nnet <- neighborNet(Rutul_No_Stopwords_MD)
+plot(nnet, "2D")
+
+```
 
 ---
 
@@ -335,7 +351,6 @@ Visualizations based on the same variables as the Rutul data.
 ```{r}
 
 Big_dist <- read.csv("Big_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
-View(Big_dist)
 Big_dist <- as.dist(Big_dist)
 nnet <- neighborNet(Big_dist)
 plot(nnet, "2D")
@@ -347,6 +362,16 @@ plot(nnet, "2D")
 
 
 ## Major languages distance matrix (MD style)
+
+```{r}
+
+Big_LGS_MD <- read.csv("Big_LGS_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_MD <- as.dist(Big_LGS_MD)
+nnet <- neighborNet(Big_LGS_MD)
+plot(nnet, "2D")
+
+```
+
 
 ---
 
@@ -366,6 +391,14 @@ The idea is to measure distance based on loans only.
 
 ## Major languages distance matrix (MD style)
 
+```{r}
+
+Big_LGS_No_Stopwords_MD <- read.csv("Big_LGS_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
+Big_LGS_MD <- as.dist(Big_LGS_No_Stopwords_MD)
+nnet <- neighborNet(Big_LGS_No_Stopwords_MD)
+plot(nnet, "2D")
+
+```
 
 ---
 
