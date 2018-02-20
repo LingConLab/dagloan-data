@@ -79,9 +79,6 @@ kable(count[,1:5], format = "html")
 
 ```
 
-Similar percentages for most values, 
-*but* a relatively large amount of **non loans**.
-
 ---
 
 ## Shortlist versus WOLD longlist
@@ -96,8 +93,6 @@ kable(count[,6:10], format = "html")
 
 
 ```
-
-Percentage of Georgian borrowings rises relatively.
 
 ---
 

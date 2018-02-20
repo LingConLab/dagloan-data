@@ -1,12 +1,13 @@
-archi_type of loan	longlist	%	shortlist	%	bezhta_type of loan	longlist	%	shortlist	%
-horizontal	103	8	20	9	horizontal	219	15	60	24
-lak	23	2	4	2	georgian	63	4	29	12
-avar	80	6	16	8	avar	156	11	30	12
-non loan	781	62	92	43	non loan	999	68	123	50
-turkic	21	2	8	4	turkic	19	1	8	3
-unknown	198	16	60	28	unknown	13	1	7	3
-vertical	151	12	32	15	vertical	219	15	47	19
-russian	60	5	11	5	russian	112	8	23	9
-NA	310	NA	39	NA	NA	95	NA	6	NA
-total	1564	NA	251	NA	total	1564	NA	251	NA
-total without NA	1254	NA	212	NA	total without NA	1469	NA	245	NA
+Archi	WOLD	%	Shortlist	%	Bezhta	WOLD	%	Shortlist	%
+Horizontal	100	8	17	8	Horizontal	219	15	59	24
+Avar	77	6	13	6	Avar	156	11	30	12
+Lak	23	2	4	2	Georgian	63	4	29	12
+Turkic	22	2	9	4	Turkic	20	1	9	4
+Vertical	0	12	0	17	Vertical	218	15	47	19
+Arabic	64	5	10	5	Arabic	79	5	12	5
+Persian	31	2	15	7	Persian	27	2	12	5
+Russian	59	5	10	5	Russian	112	8	23	9
+Unidentified	197	16	59	28	Unidentified	13	1	7	3
+Non loan	781	62	92	43	Non loan	999	68	123	50
+NA	310	25	39	18	NA	95	6	6	2
+Total without NA	1254	100	212	100	Total without NA	1469	100	245	100
