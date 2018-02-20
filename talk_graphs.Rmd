@@ -149,3 +149,15 @@ plot(nnet, "2D")
 
 ```
 
+## Avar area (MD style)
+
+8.
+```{r}
+
+avar <- read.csv("avar_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
+avar <- as.dist(avar)
+nnet <- neighborNet(avar)
+plot(nnet, "2D")
+
+```
+
