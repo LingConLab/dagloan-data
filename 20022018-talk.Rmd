@@ -257,7 +257,15 @@ kable(dist[1:4,1:3], format = "html")
 
 ---
 
+---
+
+class: inverse, center, middle
+
 ## Rutul area
+
+---
+
+## Rutul area similarity matrix (SV style)
 
 ```{r}
 
@@ -268,9 +276,61 @@ nnet <- neighborNet(Rutul_dist)
 plot(nnet, "2D")
 
 ```
+
+
+
 ---
 
+
+## Rutul area distance matrix (MD style)
+
+---
+
+class: inverse, center, middle
+
+## Without "stop words"
+If a meaning has a different lexeme in each language, remove it.
+The idea is to measure distance based on loans only.
+
+---
+
+## Rutul area similarity matrix (SV style)
+
+
+---
+
+
+## Rutul area distance matrix (MD style)
+
+
+---
+
+class: inverse, center, middle
+
+## Without Turkic languages
+
+---
+
+## Rutul area similarity matrix (SV style)
+
+
+---
+
+
+## Rutul area distance matrix (MD style)
+
+---
+
+class: inverse, center, middle
+
 ## Distance between major languages
+Measuring distance between the major languages of Daghestan based on a larger subset of the WOLD questionnaire (? items).
+Data gathered from dictionaries.
+Visualizations based on the same variables as the Rutul data.
+
+---
+
+## Major languages similarity matrix (SV style)
 
 ```{r}
 
@@ -282,31 +342,51 @@ plot(nnet, "2D")
 
 ```
 
----
-
-## Avar area
-
-- Archi (Lezgic) | Bezhta (Tsezic) | Andi (Andic; Zilo dialect), Botlikh (Andic)
-
---
-
-- All speak Avar as second language. Archi also has Lak influence, Bezhta has Georgian influence. Zilo Andi and Botlikh: only Avar.
-
---
-
-- Remove borrowings from Arabic/Persian through Avar.
-
---
-
-- Only **one** word is borrowed in all four languages: *ʁalbac'*, 'lion'
-
 
 ---
 
-## Problems
+
+## Major languages distance matrix (MD style)
+
+---
+
+class: inverse, center, middle
+
+## Without "stop words"
+If a meaning has a different lexeme in each language, remove it.
+The idea is to measure distance based on loans only.
+
+---
+
+## Major languages similarity matrix (SV style)
 
 
 ---
+
+
+## Major languages distance matrix (MD style)
+
+
+---
+
+class: inverse, center, middle
+
+## Without Turkic languages
+
+---
+
+## Major languages similarity matrix (SV style)
+
+
+---
+
+
+## Major languages distance matrix (MD style)
+
+
+
+---
+
 
 ## Further plans
 
