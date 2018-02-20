@@ -34,12 +34,20 @@ library(knitr)
 - Data from the field: Rutul region
 
   + Similarity and distance matrices
-  + Neigbournet visualization
+  + Neighbournet visualization
+  
+--
+
+- Dictionary data: neighbournet
+  
+--
+
+- Data from the field: Avar contact zone
 
 --
 
-- Distance between major languages
-  
+- Problems
+
 --
 
 - Further plans
@@ -48,23 +56,55 @@ library(knitr)
 ---
 
 
-## Shortlist
+## WOrld Loan Database project: a brief overview
 
-- [WOLD](http://wold.clld.org/meaning) questionniare - 1814 items 
-
---
-
-- Gathered in all major languages from dictionaries: Avar, Standard Dargwa, Lezgian, Lak, Chechen, *Kumyk, Azeri*
+- [WOLD](http://wold.clld.org/meaning) questionnaire - 1814 items 
 
 --
 
-- Selection of concepts with assumedly high borrowability - ~225 items
+- The aim of the [WOLD](http://wold.clld.org/meaning) project: to test empirically borrowability of different lexical items cross-linguistically
+
+-- 
+
+- For East Caucasian, [WOLD](http://wold.clld.org/meaning) is represented by two languages in central Daghestan: Archi (Lezgic) and Bezhta (Tsezic)
 
 --
 
-- Comparison of Archi (Lezgic) and Bezhta (Tsezic) from WOLD. *(Not all items from our shortlist are represented in this data.)*
+- [WOLD](http://wold.clld.org/meaning) includes all parts of speech (including ?? nouns, ?? verbs, ?? adjectives)
+
+--
+
+- Empirically confirms the lexical borrowability hierarchy, with the noun on top
+
+--
+
+- To quantify lexical contact, we thus decided to focus - at this stage of the project - on nouns
+
+--
+
+- We have collected [WOLD](http://wold.clld.org/meaning) nouns from the dictionaries of all major Daghestanian languages and some of their immediate neighbors (Avar, standard Dargwa, Lezgian, Lak, Kumyk; Chechen and Azerbaijani) - DICT dataset below
 
 ---
+
+## Shortlist
+
+- We decided to also compile a short list that can be quickly collected in the field from several speakers - WOLD is too long
+
+--
+
+- The short list was supposed to show a high ratio of horyzontally borrowed items (higher than full WOLD), lower ratio of vertical borrowings
+
+--
+
+- Thus: nouns coming from mid-range of the WOLD list (from 30 to 45) - to avoid conservative lexical items and lexical items typical in vertical borrowings; names of locally non-existent objects were avoided; some assumedly locally important nouns were added
+
+--
+
+- Resulting shortlist: some 225 nouns
+
+---
+
+
 
 ## Shortlist versus WOLD longlist
 
@@ -78,6 +118,9 @@ kable(count[,1:5], format = "html")
 
 
 ```
+
+Similar percentages for most values, 
+*but* a relatively large amount of **non loans**.
 
 ---
 
@@ -94,11 +137,13 @@ kable(count[,6:10], format = "html")
 
 ```
 
+Percentage of Georgian borrowings rises relatively.
+
 ---
 
 ## Shortlist versus WOLD longlist
 
-- The shortlist captures similar percentages to the long list
+- The shortlist does not increase the percentage of horyzontal loans; neither does it reduce the percentage of vertical loans - instead, it captures percentages similar to the long list
 
 --
 
@@ -106,16 +151,30 @@ kable(count[,6:10], format = "html")
 
 --
 
-- But also many non loans
-
---
-
-- Relative rise of Georgian borrowings in Bezhta might be due to everyday objects (e.g. 'spoon', 'candle').
+- Relative rise of Georgian borrowings in Bezhta seems to be due to the domain of everyday objects (e.g. 'spoon', 'candle').
 
 ---
 
 
 class: inverse, center, middle
+
+## The rationale for the fieldwork
+
+- Even for minority languages, dictionaries tend to be on the conservative (pure language) side
+
+--
+
+- Collect more naturalistic data on the usage of loanwords from speakers
+
+--
+
+- Collect comparable data from several speakers in a partly controlled experimental setting
+
+--
+
+- Downs: no strict transcription of the data, similarity judgements without etymological investigation
+
+---
 
 ## Fieldwork
 
@@ -140,11 +199,10 @@ map.feature(loan$Language,
 
 ---
 
-## From similarity sets to distance matrix
+## Similarity sets
 
 - Lexemes from different lects are grouped into similarity sets
 Each set is coded with a number. One language may use several lexical items and thus be ascribed several similarity sets.
-Count similarities between lects by counting how many similarity sets two lects share. (SV-style below)
 
 --
 
@@ -157,13 +215,23 @@ kable(sim, format = "html")
 
 --
 
-- We want to assess proximity by contact not by origin. Similarity by cognates does not count. 
-Similarity sets are only counted if it goes beyond a set of closely related languages.
+## From similarity sets to distance matrices
+
+- Convert shared loans into similarity models (neighbornet): Number of times two languages share a similarity set is converted into a distance matrix
+
+- Simplistic method: Count similarities between lects by counting how many similarity sets two lects share. (SV-style below)
+
+- Issue: similarities by cognate are counted (to be excluded?). 
+
+- Issue: NOT having the same loan is counted as similarity, even if different items are used (Are 0's indeed counted?)
+
+- Complification: A similarity sets is only counted if it goes beyond a set of closely related languages.
 Lines where similarity sets are contained in e.g. Turkic only or Rutul only are excluded from the counts. (MD-style below)
 
+- Complification: One meaning is counted twice. Two languages are deemed similar within a meaning if the share at least one similarity set for this meaning.
 --
 
-- Number of times two languages share a similarity set is converted into a distance matrix
+
 
 ---
 
@@ -171,7 +239,8 @@ Lines where similarity sets are contained in e.g. Turkic only or Rutul only are 
 ## Similarity to distance matrix
 
 - The number of times two languages share a similarity set is converted into a distance matrix 
-The number of shared sets divided by the number of meanings (minus the meanings for which one of the lects had not data)
+
+- Distance: the number of shared sets divided by the number of meanings (minus the meanings for which one of the lects had not data)
 
 --
 
@@ -188,13 +257,7 @@ kable(dist[1:4,1:3], format = "html")
 
 ---
 
-class: inverse, center, middle
-
 ## Rutul area
-
----
-
-## Rutul area similarity matrix (SV style)
 
 ```{r}
 
@@ -205,61 +268,9 @@ nnet <- neighborNet(Rutul_dist)
 plot(nnet, "2D")
 
 ```
-
-
-
 ---
-
-
-## Rutul area distance matrix (MD style)
-
----
-
-class: inverse, center, middle
-
-## Without "stop words"
-If a meaning has a different lexeme in each language, remove it.
-The idea is to measure distance based on loans only.
-
----
-
-## Rutul area similarity matrix (SV style)
-
-
----
-
-
-## Rutul area distance matrix (MD style)
-
-
----
-
-class: inverse, center, middle
-
-## Without Turkic languages
-
----
-
-## Rutul area similarity matrix (SV style)
-
-
----
-
-
-## Rutul area distance matrix (MD style)
-
----
-
-class: inverse, center, middle
 
 ## Distance between major languages
-Measuring distance between the major languages of Daghestan based on a larger subset of the WOLD questionnaire (? items).
-Data gathered from dictionaries.
-Visualizations based on the same variables as the Rutul data.
-
----
-
-## Major languages similarity matrix (SV style)
 
 ```{r}
 
@@ -271,47 +282,28 @@ plot(nnet, "2D")
 
 ```
 
-
 ---
 
+## Avar area
 
-## Major languages distance matrix (MD style)
+- Archi (Lezgic) | Bezhta (Tsezic) | Andi (Andic; Zilo dialect), Botlikh (Andic)
 
----
+--
 
-class: inverse, center, middle
+- All speak Avar as second language. Archi also has Lak influence, Bezhta has Georgian influence. Zilo Andi and Botlikh: only Avar.
 
-## Without "stop words"
-If a meaning has a different lexeme in each language, remove it.
-The idea is to measure distance based on loans only.
+--
 
----
+- Remove borrowings from Arabic/Persian through Avar.
 
-## Major languages similarity matrix (SV style)
+--
 
-
----
-
-
-## Major languages distance matrix (MD style)
+- Only **one** word is borrowed in all four languages: *ʁalbac'*, 'lion'
 
 
 ---
 
-class: inverse, center, middle
-
-## Without Turkic languages
-
----
-
-## Major languages similarity matrix (SV style)
-
-
----
-
-
-## Major languages distance matrix (MD style)
-
+## Problems
 
 
 ---
