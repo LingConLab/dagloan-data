@@ -29,12 +29,8 @@ Each meaning can correspond to one or more words in a given language. Each disti
 
 Each meaning can correspond to one or more words in a given language. Each distinct lexeme is assigned a number; a distance matrix is created from the number of times languages share the same lexeme (i.e. share 1 or more numbers on a row) / number of meanings. 
 
+### 1. Rutul area (SV style)
 
-# Visualizations
-
-**Rutul area (SV style)**
-
-1.
 ```{r}
 
 Rutul_SV <- read.csv("Rutul_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -45,9 +41,8 @@ plot(nnet, "2D")
 ```
 
 
-**Rutul area (MD style)**
+### 2. Rutul area (MD style)
 
-2.
 ```{r}
 
 Rutul_MD <- read.csv("Rutul_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -63,9 +58,8 @@ If a meaning has a different lexeme in each language, remove it.
 The idea is to measure distance based on loans only.
 
 
-**Rutul area (SV style)**
+### 3. Rutul area (SV style)
 
-3.
 ```{r}
 
 Rutul_No_Stopwords_SV <- read.csv("Rutul_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -76,9 +70,8 @@ plot(nnet, "2D")
 ```
 
 
-**Rutul area distance matrix (MD style)**
+### 4. Rutul area distance matrix (MD style)
 
-4.
 ```{r}
 
 Rutul_No_Stopwords_MD <- read.csv("Rutul_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -94,9 +87,8 @@ Data gathered from dictionaries.
 Visualizations based on the same variables as the Rutul data.
 
 
-**Major languages (SV style)**
+### 5. Major languages (SV style)
 
-4.
 ```{r}
 
 Big_LGS_SV <- read.csv("Big_LGS_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -107,9 +99,8 @@ plot(nnet, "2D")
 ```
 
 
-** Major languages (MD style)**
+### 6. Major languages (MD style)
 
-5.
 ```{r}
 
 Big_LGS_MD <- read.csv("Big_LGS_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -124,9 +115,8 @@ If a meaning has a different lexeme in each language, remove it.
 The idea is to measure distance based on loans only.
 
 
-**Major languages (SV style)**
+### 7. Major languages (SV style)
 
-6.
 ```{r}
 
 Big_LGS_No_Stopwords_SV <- read.csv("Big_LGS_No_Stopwords_SV.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -137,9 +127,8 @@ plot(nnet, "2D")
 ```
 
 
-**Major languages (MD style)**
+### 8. Major languages (MD style)
 
-7.
 ```{r}
 
 Big_LGS_No_Stopwords_MD <- read.csv("Big_LGS_No_Stopwords_MD.csv", header = TRUE, sep = ";", na.strings = "NA")
@@ -149,9 +138,7 @@ plot(nnet, "2D")
 
 ```
 
-## Avar area (MD style)
-
-8.
+### 9. Avar area (MD style)
 ```{r}
 
 avar <- read.csv("avar_dist.csv", header = TRUE, sep = ";", na.strings = "NA")
