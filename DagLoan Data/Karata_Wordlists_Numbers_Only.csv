@@ -1,0 +1,203 @@
+name,take?,Bagvalal_G,Bagvalal_Mum,Bagvalal_Mus,Bagvalal_N,DAvar,DBagvalal,DKarata,DRussian,DTurk,Karata_K,Karata_Kh,Karata_U,Karata_Z,Tadmagitl_Kh,Tadmagitl_N,Tukita_M
+the watermelon,the watermelon,2,2,2,2,2,2,2,1,2 2,2,2,2,2,,2,
+the barrel,the barrel,,1 3,1 3,1 3,3,1 3,1,1,4 1,1,1,1,1,,1,1
+the bucket,the bucket,1,1,1,1,1,1,1,1,1 1 2,1,1,1,1,1,1,1
+the pea,the pea,1 3,1,3,3,5,3,2,1,4 4,1 2,,1,2,3,3,3
+the pear,the pear,4,4,4,4,6 7,2,2 3,1,5 5,2,2,2,2,4,4,3
+the melon,the melon,1 2,1,2,1,2,4,2,1,5 6 2,2 3,2 3,2,2,2,2,2
+the cabbage,the cabbage,1,1,1,1,1,1,,1,2 1,1,1,1,1,1,1,1
+the carrot,the carrot,2,,2,2,2,4,2,1,5 6,3,3,3,2,4,4,2
+the rust,the rust,6,,6,6,5,6,,1,7 8 9,3,2,2,2,5,5,4
+the fairy tale,the fairy tale,3,3,3,3,3,2,2,1,4 5 6,2,2,2,2,2,2,3
+the plum,the plum,,,6,6,4,5 6,2,1,7 4,2,2,2,2,4,4,3
+the herd,the herd,7 8,8,8,8,7,2,2,1,9 10 9 11 12,3,3,3,3,6,6,4 5
+the mother-in-law,#N/A,,,,,4,2,2,1,3 3,,,,2,,,
+the rosary,the rosary,5,5,5,5,NA,5,2,1,6 6 7,2 3,2,2,2,,4,2
+the whip,the whip,2,2,0,0,6,2,,1,4 5 5,2,2,2,2,,3,2
+the sugar,the sugar,2 3,,2,2,2,2,2,1,2 4 2,2,2,2,2,2,2,2
+the soap,the soap,2,,2,2,2,2,2,1,2 2,2,2,2,2,3,3,2
+the wine,the wine,5,1,1 6,1,2,4,,1,7 2 2,1,,2,1,,1,1
+the table,the table,2,2,2,1,1,2,2,1,1 3 1,2,2,2,2,2,2,2
+the paper,the paper,2,2,2,2,2,2,2,1,2 2,2,2,2,2,,2,2
+the shop/store,the shop/store,2,,2,2,2,2,2,1,1 2,2,2,2,2,2,2,2
+the school,the school,2,1,2,1,1,2,2,1,3 1 3,2,2,2,2,2,2,2
+the mule,the mule,4,,2,4,2,2,,1,5 5,2,2,2,2,3,,2
+the oats,the oats,2,,2,3,2,2,2,1,4 2 5,2 3,2 3,2 3,2,2,,2 3
+the pencil,the pencil,2,2,2,2,2,2,2,1,1 1,2,2,2,2,2,2,2
+the brick,#N/A,1,1,1,1,1,1,2,1,1 1,1,1,2,1 2,1,3,1
+the tobacco,the tobacco,2,2,2,2,2,2,2,1,6 2,1 2,2,2,2,4,4,1 2
+the towel,the towel,1,,1,1,1 5,1,,1,2 3 4,1,1,1,1,1,1,1
+the pepper,the pepper,1,,1 2,1,2 7,2 3,2,1,4 5 6,2,2,1,2,1,1,1
+the lion,the lion,2,2,2,2,2,2,2,1,3 3,2,2,2,2,2,2,2
+the number,#N/A,2,,2,2,1 5,2,2,1,3 1 4,,,,2,2,2,2
+the lamp or torch,#N/A,1 3,3,1,1,1 3,3,1,1 2,1 2,1 3,3,3,3,3,1,1 3
+the week,the week,2,,2,2,5,2,2,1,3 4,2,2,2,2,2,2,2
+the glass,the glass,7,7,7,7,4 8,6,2 3,1,8 8,3,3,3,3,5,5,4
+the rice,the rice,1,,1,,5,2,2,1,4 4,2,2,2,2,3,3,1
+the cup,the cup,2,5,2 5,2,2,,3 4,1 2,6 2 7,2,2,,2,2,2,2
+the bottle,the bottle,2,2,2,2,2,2,2,1,2 2,2,2,2,2,,2,2
+the pipe,the pipe,2,,2,4,7,,,1,5 6,3,2,2,,2,,1
+the pocket,the pocket,6,6,6,6,2 3,2 5,2 3,1,7 2,3,3,3,3,4,4,3
+the colour/color,the colour/color,2,2,2,2,2,2,2,1,3 4 5 6 7 8,2,2,2,2,2,2,2
+the gun,the gun,2 6,,7,7,7,2,2,1,7 8,2 3,2,2,2,5,5,4
+the copper,the copper,6,,6,7,3,6,2 3,1,8 9 10,2 3,2 3,2,3,5,5,4
+the gold,the gold,2,2,2,2,2,2,2,1,3 4,2,2,2,2,2,2,2
+the ball,the ball,6,,6,6,8,6,3,1 2,7 7,3,3,3,3,5,5,4
+the window,the window,2,,2,2,7,2,2,1,3 4 5 6,2,2,2,2,3,3,2
+the trousers,the trousers,3,3,3,3,5,3,2,1,2 2 4,2,2,2,2,,3,2
+the chain,the chain,2,2,2,2,2 4,3,2,1,4 4,2,2,2,2,2,1 2,2
+the fork,the fork,6,1 6,1,1 5,5,5,2,1,7 8,2,2,2,2,4,,3
+the reindeer/caribou,the reindeer/caribou,5,,2 5,2,2,4,2,1,6 7,3,3,3,2 3,3,2,2
+the time,the time,3,3,3,3,3 10 11,3 6,2 3 4 5,1,7 7 8 9,3,3,3,3,3,3,3
+the money,the money,5,5,5,5,8,5,2 3,1,6 7,2 3,2 3,2 3,2 3,4,4,2
+the soup,the soup,2,2,2,2,2,,2,1,2 2,2,2,2,2,2,2,2
+the lead,the lead,2,,2,4,3,2,2,1,5 5,,2,2,2,2,,3
+the scythe,the scythe,2,2,2,2,2,2,2 3,1, 4,3,3,3,3,4,2,3
+the sickle,the sickle,,,,2,4 8,6,,1,7 7,2 3,2 3,2,,5,5,4
+the spectacles/glasses,#N/A,1 3,,3,3,6,3,2,1,4 5,2,1 2,1 2,2,1,1,1 2
+the paint,the paint,1 2,2,1,1,2 6,2,2,1,4 4 5,1,2,2,3,1 2,1,2
+the prison,the prison,2,2,2,1,2,2,2,1,3 2 4,2,2,2,2,2,2,2
+the silver,the silver,3,,3,3,5,3,2,1,4 4,2,2,2,2,3,3,2
+the lock,the lock,6,6,6,6,6 8,5,2,1,7 8,2,2,2,2,4,4,3
+the mortar(2),the mortar(2),2,2,2,2,2,2,2,1,4 3,2,2,2,2,,3,2
+the cross,the cross,2,2,2,2,2,2,,1,3 2,1,,1,,2,2,2
+the fist,the fist,2,2,2,2,2,4,2,1,5 5,2,2,2,2,3,3,2
+the tiger,#N/A,4,2,2,2,2,,2,1,5 6 1,2,2,2,2,3,,
+the scabies,#N/A,5,4,4,4,4,4,2,1,6 6,,,2,2,3,3,
+the joke,the joke,2,2,2,2,2,2,2,1,3 2 4,2,2,2,2,2,2,2
+the spade,the spade,3,3,3,3,3 4,4 5,2 3,1,6 3 6 1,3,3,3,3,1,1,3
+the scissors or shears,the scissors or shears,2,,2,2,6,2,2,1,5 5,2,2,2,2,4,4,3
+the blanket,the blanket,2,,2,2,1 2,2 3,1 2,1,2 2 4 5,2,2,2,1 2,3,1,1 2
+the fermented drink,the fermented drink,3,3,3,,2,,2,1,5 1,4,2 3,2 3,2,,2,2
+the key,#N/A,2,2,2,2,6,2,2,1,4 5,2,2,2,2,3,3,2
+the goose,the goose,2,,,,2,2,2,1,3 2,2,2,2,2,2,2,2
+the sea,the sea,,,2,2,2,2,2,1,4 4,2,2,1 3,2,2,1,2
+the garden,the garden,2,,2,2,2,,2,1,3 3,2,2,2,2,2,2,2
+the duck,the duck,,4,,2,2,2 3,2,1,2 2 3,2,2,2,2,,3,2
+the arch,the arch,2,2,2,2,NA,2,2,1,6 7,2,2,2,3 4,,2,5
+the wheel,the wheel,7,7,7,7,10 11 12,5 6,2,1,8 9,2,2,2,2,4,4,3
+the grape,the grape,2,2,2,2,2,2 4 5,2,1,6 6,2,2,2,2,3,3,2
+the hammer,the hammer,2,,2,2,2,2,2,1,3 4,2,2,2,2,2,2,2
+the clan,the clan,3,3,1,1,1,,1 3,1 2,1 1,1 3,1,1,3,1 3,4,1 3
+the poison,the poison,2,2,2,2,2,2,2,1,2 ,2,2,2,2,2,2,2
+the boundary,the boundary,2,2 4,2,2,2,2,2 3,1,5 6,2,2,2,2,2,2,2
+the guard,#N/A,1,,1,2,3,6 7 1,2,1 2,8 2,3,,,1,5,1,4
+the sledge/sled,the sledge/sled,5,,3,3,3,3 4,2 3,1, 3,1 3,1,1,2,3,1,3
+the price,the price,2,2,2,2,2 3 5,2,2 3,1,3 2 3 4,2,2,2,2,2,2,2
+the saw,the saw,5,,5,5,5,4,2,1,6 7,2,2,2,2,3,3,3
+the medicine,the medicine,2,2,2,2,2 3,2 3,2,1,4 3,2,2,2,2,2,2,2
+the potato,#N/A,5,5,5,5,1,5,2 3,1,1 1,3,3,3,3,3,4,1
+the family,the family,4,,4,4,4,4 5,2 3 4,1,6 6,4,4,4,4,4,4,4
+the glue,#N/A,2,2,1,2,2,2,2,1,3 1 4 5,2,1 2,2,2,2,2,2
+the bridge,the bridge,2,,2,2,4,2,2,1,3 3,2,2,2,2,2,2,2
+the friend,the friend,3 4,3,3,3,4,,2,1,6 6 7 8 9,2,2,2,2 3,3,3,3 4
+the nail,the nail,2,2,2,2,8,2,2 3,1,5 6 7,2,2,2,2,4,4,2
+the fork(2)/pitchfork,the fork(2)/pitchfork,2,2,2,2,,2,2,1,4 5,2,2,2,2,3,3,2
+the tongs,the tongs,3,3,3,3,3,3,3,1 2,4 4 5,3,3,3,3,3,,3
+the pumpkin or squash,the pumpkin or squash,4,4,4,4,2,3,,1,5 2,1,1,,,2,2,2
+the spoon,the spoon,2,2,2,2,2 7 8,2 5,2 3,1,6 6,2 3,2 3,2 3,2 3,4,4,2
+the soul or spirit,#N/A,3 4,3,3,,4,3 4,2 3 4,1,5 6,4,4,4,3 4,4,,4
+the mirror,the mirror,2,2,2,2,2,2,2 3,1,3 3,2,2,2,2,2,2,2
+the drum,the drum,4,4,4,4,,4,2,1,5 5 6,1 3,2,2,2,,4,2
+the maize/corn,the maize/corn,2,2,2,2,6,3,2,1,4 5,2,2,2,2,3,3,3
+the slave,the slave,2,,4,2,2,2,2,1,5 5,2,2,2,2 3,2,,2
+the needle(1),the needle(1),2,2,2,2,6,2,2 3,1,5 5,2,2,2,2,4,4,2
+the corpse,the corpse,2,2,2,2,2,4,2,1,5 5 6,2 3,2,2,2,2,2,2 3
+the work,the work,4,,3,3,4,3 4 5,2,1,6 6,2,2,2,2,4,4,3
+the flour,the flour,4,,4,4,6 7,4,2,1,5 5,2,2,2,2,3,3,2
+the axe/ax,the axe/ax,2,2,2,2,4,2,2,1,3 3,2,2,2,2,2,2,2
+the floor,#N/A,6,,6,6,11,5,,1,7 8 9 10,2 3,2 3,2 3,2,4,4,2 3
+the cat,the cat,5,5,5,5,7 8 9,4,2 3,1,6 6,2,2,2,2,4,4,4
+the wall,the wall,2,2,2,2,2,2,2,1,3 4 5,2,2,2,2,2,2,2
+the cattle,the cattle,2,,,,2 8,4,2,1,6 7,,,,3,,,
+the debt,the debt,4,5,4 5,4 5,4 5 7,2 4 5,2 3,1,7 7,4 5,4 5,4,4,6,6,6
+the pig,the pig,2,,2,2,2,2 3,2 3 4,1,2 2,2 4,2,2,2,2,2,2
+the cock/rooster,the cock/rooster,4,,4,4,4,2,2,1,5 6,2,2,2,2,3,3,2
+the belt,the belt,5,,5,5,8 9 10,4,2,1,6 6 7,2,2,2,2,3,3,2
+the thread,the thread,4,,4,4,7 8,4,2,1,5 6,2,2,2 3,2,4,4,3
+the iron,the iron,2,2,2,2,5,2,2,1,4 4,2,2,2,2,3,3,2
+the grandmother,#N/A,3,3,3,3,,4,2,1,5 6,3,3,2,2,,3,3
+the wolf,the wolf,2,2,2,2,2,2,2 3,1,4 5,2,2,2,2,2,2,2
+the widow,the widow,2,2,2,2,2,2,2,1,3 3,2,2,2,2,,2,2
+the grandfather,#N/A,4,5,4,3,8 9,4,2,1,6 7,3,3,2,2,3,3,3
+the mushroom,the mushroom,5,6,6,7,6,4,2,1,8 9,2,2,2,2,3,,3
+the voice,the voice,4,4,4,4,8,4,2,1,5 5 6 7,2,2,2,2,3,3,2
+the guest,the guest,2,2,2,2,4,2,2,1,3 3,2,2,2,2,2,2,2
+the beak,the beak,2,2,2,7,3,6,2,1,8 9,2,2,2,2,4,4,3
+the wedding,the wedding,2,,2,2,2,2,2,1,4 4,2,2,2,2,3,3,2
+the spider,the spider,6,,6,7,11,5,2,1,8 9 10,2,2,2,2,4,4,3
+the flower,the flower,2,2,2,2,6,3,2,1,4 5,2,2,2,2,2,2,3
+the scar,the scar,2 7,2,2,2,10,2,2 3,1,8 9,2,2,2,2,5,5,4
+the shoulderblade,#N/A,5,,6,6,9,4,2,1,7 8,3,,3,2,,,1
+the dust,the dust,2,,2,2,2,4,2,1,5 6,2,2,2,2,3,3,2
+the lizard,the lizard,5,5,5,5,5,5,2,1,6 7,2,2,2,2,4,4,3
+the old man,#N/A,2,2,2,2,7,,,1,5 6,2 3,2,3,2,4,,2
+the ladder,#N/A,6,6,6,6,6 10,5,2 3 4,1,7 8 9,2 4,2 4,2,2,3,3,3
+the thing,the thing,,11,11,,14,,2 3 4,1,12 13,6,6,6,5,9,10,7 8
+the boar,the boar,4,3,4,4,3 4,3 5,3 4,1 2 3,3 3,3,3,3,3 4,4,4,3
+gate,#N/A,3,2,2,2,,2,2,1,4 5 6,3,2,3,2,2,2,2
+the door or gate,the door or gate,4,4,4,4,7 8,4,2,1,5 6,2,2,2,2,3,3,2
+the orphan,the orphan,7,,4,4,4 6,6,2 3,1,6 6 8,4,4,4,4,,,5
+the steam,#N/A,2,,2 5,2 5,2,2,2,1,6 7 8,2,2,,2,,4,3
+the frog,the frog,2,,2,2,2,2,2,1,3 4,2,2,2,2,2,2,2
+the ring,the ring,6,6,6,6,12,5,2,1,7 8 9 10 11,2 3,2 3,2,2,4,4,1
+the song,the song,3,,3,3,3,3,2,1,5 6,2,2,2,2,4,4,3
+the bat,the bat,5,5,5,5,8 9,4,2,1,6 7,2,2,2,2,,,3
+the earring,the earring,6,,6,6,10 11,2,2 3,1,7 8 9,,,3,2 3,,4,
+the light,#N/A,2,,2,2,6 7 8,2,2 3,1,4 5,2,2,2,2,2,2,2
+the neighbour,the neighbour,2,2,2,2,2 7,2,2,1,5 6,2,2,2,2,3,4,2
+the bracelet,the bracelet,2,,,2,,2,2,1,4 5,2,2,2,2,,,3
+the clothing or clothes,the clothing or clothes,6,,6,6,10 11,6,2,1,7 8 9,3,3,3,3,5,5,4
+the cave,the cave,2,,2 4,2 4,4,2,,1,5 6,,2,2,,,,
+the arrow,#N/A,7,8,8 9,9,11,6,2 3,1,10 10,2,2,2,2,5,5,4
+the body,the body,4 6,4 6,4,4,4 5,4 6,2 3,1,7 4,5,4,4,4,4,4,4
+the year,the year,2,2,2,2,4 5,2,2,1,3 3,2,2,2,2,2,2,2
+the sound or noise,#N/A,6,6,6,6,4 10,4 5,,1,7 7 8 9,,2 3,2,,,,
+the temples,#N/A,3,3,,3,8,2,,1,4 5 6 7,,,,,,,
+the skull,#N/A,3,4,4,4,4 8,,,1,5 6 7,,,2,,,,
+the broom,the broom,6,,6,6,9,5,2,1,7 8,2 3,2 3,2 3,3,4,4,2
+the thief,the thief,4,4,4,4,4,4,2,1,5 6,2,2,2,2,3,3,2
+the father-in-law (of a woman),#N/A,2,,2,2,6,2,2 3,1,5 5,2,2,2,2,2,2,4
+the beard,the beard,2,2,2,2,,,2,1,4 4,2,2,2,2,,3,2
+the comb,the comb,2,2,2,2,7,2,2 3 4,1,5 6,2,2,2,2,2,2,2
+the nape of the neck,#N/A,2,2,2,2,2,2,,1,3 4,,2,2,,,,
+the dew,#N/A,4,,4,4,,3,,1,5 6,,2,2,,,,
+the bark,#N/A,3,3,3,3,2 6,3,2 3,1,4 5,3,2,3,2 3,3,3,3
+the lightning,the lightning,4 5,,5,6,2 9,3,2,1,7 8,2,2,2,2,,2,2
+the wasp,the wasp,4,,4,5,8,3,2,1,6 7,2,2,2,2,3,3,
+the bow,the bow,7,,7,7,10 11,6,2,1, 8 9,3,3,3,3,,5,4
+the owl,the owl,2,2,2,2,2,5,2,1,6 7 8,2,2,3,2 3,2,2 4,2 3
+the rope,the rope,3,3,3,3,3 7 8,3,2,1,4 5 6,2,2,2,2,,3,2
+the tick,#N/A,,,,,7,4,2,1,5 6,2,,2,2,,3,
+the nettle,the nettle,3,3,3,3,2,2,2,1,4 4,2,2,2,2,2,2,3
+the foam,#N/A,2,,2,2,6,2 4,2,1,5 5,2,2,2,2,3,3,
+the fish,the fish,3,,3,3,2,3,2,1,4 4,2,2,2,2,2,2,2
+the hare,the hare,3,3,3,3,6,3,2,1,4 4 5,2,2,2,2,2,2,2
+the butterfly,the butterfly,6,6,6,6,,5,2,1,7 8,2,2,2,2,,,3
+the footprint,the footprint,3 4,3,3 5,3,5,3,2,1,6 7,2,2,2,2,2,2,2
+the whetstone,#N/A,7,,7,7,11 12 13,,2 3 4,1,8 9 10,3,,5,2 3,6,6,2 3
+the father-in-law (of a man),#N/A,,,,,4,2,2,1,3 3,,,,2,,2,2
+the nest,the nest,7,7,7,7,9,6,2,1,8 8,4,3,3 4,2,5,5,2
+the worm,the worm,2,,2,2,3 9 10,7,2 3 4 5,1,8 8,,,6,6,2,2,
+the navel,#N/A,5,,,4,4,4,2,1,6 7,2,2,2,2,3,3,2
+the ant,the ant,7,,7,8,4,6,2,1,9 10,2,2,2,2,4,5,3
+the tree stump,#N/A,7,,3,3,10,6,2 3,1,8 9,3,2 3,2,2,,,3
+the tail,the tail,2,2,2,2,6,2,2 3,1,5 5,2,2,2,2,4,4,2
+the wing,the wing,,4,4,4,6,3,2,1,5 5,2,2,2,2,2,2,2
+the shade or shadow,the shade or shadow,4,4,4,4,7,2,2,1,5 6,2,2,2,2,3,3,2
+the grasshopper,the grasshopper,2,2,2,2,2,2,2,1,3 3,2,2,2,2,2,2,2
+the thunder,#N/A,6,7,3,3,10,6,2,1,8 9,4,3,3,2,3,5,
+the beeswax,the beeswax,2,2,2,2,3,2,2,1,5 6,2,2,2,2,4,4,3
+the sand,the sand,6,,6,6,3,5,2,1,7 8 9,2,2,2,2,3,4,3
+the clay,#N/A,6,,7,7,5,6,2 3,1,8 9 10,2,2,2,2,5,5,4
+the blister,the blister,8,,8,8,3 11,7,2 3,1,9 10,3,3,3,3,5,6,1
+the egg,the egg,4,4,4,4,7,4,2,1,5 6,2,2,2,2,3,3,3
+the elbow,#N/A,5,5,5,5,7,3 4,,1,6 6,,2,2,,,,
+the spider web,#N/A,4,,3,5,9 10,3,,1,6 7 8,,2,2,,,,
+the lip,the lip,4,4,4,4,4,3,2,1,5 6,2,2,2,2,3,3,3
+the chin,#N/A,2,,2,2,8,2,2 3,1,6 7,2,2,2,2,5,5,4
+the heel,#N/A,3,,3,3,5,3,2,1,4 4,2,2,2,2,2,2,3
+the firewood,the firewood,4,4,4,4,7,3,,1,5 6,,2,2,,,,
+the yolk,#N/A,3,3,3,4,6,,,1,5 5,,2,2,,,,
+the partridge,the partridge,,,2,2,5,2,2,1,3 4,2,2,2,2,2,,2
+the sleeve,the sleeve,,,2,3,7,3,2,1,5 6,2,2,2,2,4,4,3
