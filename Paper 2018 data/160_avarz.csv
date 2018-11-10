@@ -1,205 +1,205 @@
-nr	name	core	aa_source	ag_source	az1_source	az2_source	ar_source	bb_source
-151	the ant	1	non loan	non loan	non loan	non loan	non loan	non loan
-70	the arch	1	avar	avar	avar	avar	avar	avar
-98	the axe/ax	1	non loan	non loan	non loan	non loan	non loan	non loan
-98	the axe/ax	1	NA	NA	unidentified	NA	NA	NA
-42	the ball	1	non loan	non loan	non loan	non loan	non loan	non loan
-2	the barrel	1	NA	NA	turkic	russian	russian	russian
-2	the barrel	1	NA	NA	russian	turkic	NA	russian
-128	the bat	1	NA	non loan	non loan	non loan	non loan	non loan
-113	the beak	1	NA	avar	non loan	non loan	non loan	avar
-138	the beard	1	non loan	non loan	non loan	non loan	non loan	non loan
-156	the beeswax	1	NA	non loan	non loan	non loan	non loan	non loan
-105	the belt	1	non loan	non loan	non loan	non loan	NA	non loan
-105	the belt	1	NA	non loan	NA	NA	NA	NA
-64	the blanket	1	turkic	turkic	turkic	NA	turkic	russian
-158	the blister	1	NA	non loan	non loan	non loan	non loan	non loan
-121	the boar	1	non loan	turkic	russian	turkic	turkic	turkic
-121	the boar	1	NA	non loan	NA	non loan	non loan	avar
-134	the body	1	avar	avar	turkic	avar	avar	avar
-134	the body	1	non loan	turkic	avar	turkic	turkic	turkic
-134	the body	1	arabic	avar	NA	NA	NA	NA
-35	the bottle	1	persian	persian	persian	persian	persian	persian
-35	the bottle	1	NA	NA	NA	NA	NA	russian
-76	the boundary	1	avar	turkic	turkic	turkic	avar	avar
-141	the bow	1	non loan	non loan	NA	non loan	unidentified	unidentified
-131	the bracelet	1	non loan	non loan	russian	non loan	NA	non loan
-131	the bracelet	1	NA	NA	non loan	NA	NA	NA
-82	the bridge	1	non loan	non loan	non loan	non loan	NA	non loan
-136	the broom	1	non loan	non loan	non loan	non loan	NA	non loan
-3	the bucket	1	turkic	turkic	turkic	turkic	turkic	unidentified
-3	the bucket	1	NA	unidentified	NA	NA	NA	NA
-147	the butterfly	1	non loan	non loan	non loan	non loan	non loan	non loan
-7	the cabbage	1	russian	russian	russian	russian	russian	russian
-31	the candle	1	NA	turkic	russian	NA	turkic	turkic
-8	the carrot	1	non loan	non loan	non loan	non loan	NA	non loan
-99	the cat	1	unidentified	unidentified	unidentified	unidentified	unidentified	unidentified
-101	the cattle	1	non loan	non loan	non loan	non loan	non loan	non loan
-133	the cave	1	non loan	non loan	russian	non loan	non loan	non loan
-45	the chain	1	avar	avar	avar	avar	avar	avar
-74	the clan	1	arabic	arabic	arabic	arabic	arabic	arabic
-74	the clan	1	NA	NA	NA	NA	NA	arabic
-74	the clan	1	NA	NA	NA	NA	NA	chechen
-74	the clan	1	NA	NA	NA	NA	unidentified	NA
-132	the clothing or clothes	1	non loan	non loan	non loan	non loan	non loan	non loan
-104	the cock/rooster	1	non loan	non loan	avar	avar	non loan	non loan
-38	the colour/color	1	non loan	non loan	non loan	non loan	non loan	non loan
-40	the copper	1	non loan	non loan	non loan	non loan	non loan	non loan
-40	the copper	1	NA	turkic	NA	NA	NA	NA
-95	the corpse	1	arabic	arabic	arabic	arabic	arabic	arabic
-95	the corpse	1	NA	non loan	NA	NA	non loan	NA
-59	the cross	1	NA	turkic	turkic	turkic	turkic	turkic
-34	the cup	1	NA	NA	russian	unidentified	NA	NA
-34	the cup	1	NA	NA	unidentified	NA	NA	NA
-102	the debt	1	avar	avar	avar	avar	avar	avar
-102	the debt	1	NA	NA	NA	NA	NA	avar
-102	the debt	1	NA	NA	NA	NA	NA	unidentified
-90	the drum	1	non loan	avar	avar	avar	avar	non loan
-69	the duck	1	turkic	turkic	turkic	turkic	turkic	turkic
-118	the dust	1	non loan	non loan	non loan	non loan	non loan	non loan
-129	the earring	1	non loan	non loan	non loan	non loan	non loan	non loan
-159	the egg	1	non loan	non loan	non loan	non loan	non loan	non loan
-10	the fairy tale	1	non loan	non loan	non loan	non loan	non loan	non loan
-81	the family	1	avar	avar	avar	avar	avar	avar
-92	the felt	1	NA	avar	non loan	non loan	non loan	avar
-92	the felt	1	NA	non loan	NA	NA	NA	russian
-65	the fermented drink	1	avar	NA	NA	unidentified	avar	avar
-161	the firewood	1	NA	NA	non loan	NA	NA	NA
-145	the fish	1	non loan	non loan	non loan	non loan	avar	non loan
-60	the fist	1	non loan	non loan	non loan	non loan	NA	non loan
-97	the flour	1	non loan	non loan	non loan	non loan	non loan	non loan
-116	the flower	1	non loan	non loan	non loan	non loan	NA	NA
-148	the footprint	1	non loan	non loan	non loan	non loan	non loan	non loan
-46	the fork	1	non loan	non loan	non loan	non loan	NA	non loan
-85	the fork(2)/pitchfork	1	non loan	non loan	non loan	non loan	NA	non loan
-83	the friend	1	non loan	non loan	non loan	non loan	non loan	avar
-125	the frog	1	non loan	non loan	non loan	non loan	non loan	non loan
-68	the garden	1	non loan	non loan	non loan	non loan	non loan	non loan
-32	the glass	1	non loan	non loan	non loan	non loan	non loan	avar
-32	the glass	1	NA	NA	NA	NA	NA	unidentified
-41	the gold	1	non loan	non loan	non loan	non loan	non loan	non loan
-66	the goose	1	turkic	turkic	turkic	turkic	turkic	turkic
-72	the grape	1	non loan	non loan	non loan	non loan	non loan	non loan
-155	the grasshopper	1	non loan	non loan	non loan	non loan	non loan	non loan
-112	the guest	1	NA	non loan	non loan	non loan	non loan	non loan
-39	the gun	1	turkic	turkic	turkic	turkic	turkic	turkic
-39	the gun	1	NA	NA	avar	NA	NA	NA
-73	the hammer	1	non loan	non loan	non loan	non loan	non loan	non loan
-146	the hare	1	non loan	non loan	non loan	non loan	non loan	non loan
-12	the herd	1	non loan	non loan	non loan	non loan	non loan	avar
-107	the iron	1	non loan	non loan	non loan	non loan	non loan	non loan
-61	the joke	1	arabic	arabic	arabic	arabic	arabic	arabic
-51	the lead	1	non loan	non loan	non loan	non loan	non loan	non loan
-140	the lightning	1	avar	non loan	non loan	non loan	NA	non loan
-29	the lion	1	avar	avar	avar	avar	avar	avar
-160	the lip	1	non loan	non loan	non loan	non loan	non loan	non loan
-160	the lip	1	NA	NA	NA	NA	NA	NA
-119	the lizard	1	non loan	non loan	non loan	non loan	non loan	non loan
-57	the lock	1	NA	non loan	non loan	non loan	non loan	non loan
-91	the maize/corn	1	chechen	chechen	chechen	chechen	NA	non loan
-80	the medicine	1	persian	persian	persian	persian	persian	persian
-6	the melon	1	turkic	turkic	turkic	turkic	turkic	turkic
-89	the mirror	1	non loan	non loan	non loan	non loan	non loan	non loan
-49	the money	1	non loan	non loan	non loan	non loan	non loan	non loan
-58	the mortar(2)	1	NA	avar	avar	avar	avar	avar
-22	the mule	1	non loan	non loan	non loan	non loan	non loan	avar
-110	the mushroom	1	non loan	non loan	non loan	non loan	NA	NA
-84	the nail	1	non loan	non loan	non loan	non loan	non loan	non loan
-94	the needle(1)	1	NA	NA	non loan	non loan	NA	non loan
-130	the neighbour	1	avar	avar	avar	avar	NA	avar
-149	the nest	1	non loan	non loan	non loan	non loan	non loan	non loan
-144	the nettle	1	non loan	non loan	non loan	non loan	non loan	non loan
-23	the oats	1	turkic	turkic	unidentified	turkic	turkic	non loan
-124	the orphan	1	avar	avar	avar	avar	avar	non loan
-124	the orphan	1	NA	unidentified	NA	NA	NA	NA
-124	the orphan	1	turkic	turkic	NA	NA	NA	NA
-142	the owl	1	NA	NA	NA	NA	non loan	non loan
-142	the owl	1	non loan	non loan	avar	non loan	avar	avar
-142	the owl	1	NA	NA	unidentified	NA	NA	NA
-54	the paint	1	avar	non loan	russian	avar	avar	avar
-54	the paint	1	NA	NA	avar	NA	NA	NA
-19	the paper	1	persian	persian	persian	persian	persian	persian
-162	the partridge	1	non loan	non loan	non loan	non loan	non loan	non loan
-4	the pea	1	non loan	non loan	non loan	non loan	non loan	non loan
-5	the pear	1	non loan	non loan	non loan	non loan	NA	non loan
-24	the pencil	1	turkic	turkic	turkic	turkic	turkic	turkic
-28	the pepper	1	avar	persian	russian	turkic	turkic	turkic
-28	the pepper	1	NA	NA	turkic	NA	NA	NA
-103	the pig	1	non loan	non loan	non loan	non loan	non loan	avar
-36	the pipe	1	chechen	NA	russian	chechen	russian	russian
-11	the plum	1	non loan	turkic	turkic	turkic	turkic	turkic
-11	the plum	1	NA	non loan	NA	NA	NA	NA
-37	the pocket	1	NA	turkic	turkic	turkic	turkic	avar
-75	the poison	1	persian	persian	persian	persian	persian	persian
-78	the price	1	persian	persian	persian	persian	persian	persian
-78	the price	1	NA	NA	NA	NA	NA	turkic
-55	the prison	1	persian	persian	persian	persian	persian	persian
-55	the prison	1	NA	non loan	NA	NA	NA	NA
-87	the pumpkin or squash	1	turkic	turkic	non loan	non loan	turkic	turkic
-47	the reindeer/caribou	1	non loan	non loan	non loan	non loan	non loan	non loan
-33	the rice	1	avar	persian	unidentified	unidentified	persian	unidentified
-126	the ring	1	non loan	non loan	non loan	non loan	NA	non loan
-143	the rope	1	non loan	non loan	non loan	non loan	NA	non loan
-143	the rope	1	NA	NA	non loan	NA	NA	NA
-143	the rope	1	NA	non loan	NA	NA	NA	NA
-13	the rosary	1	unidentified	unidentified	unidentified	unidentified	unidentified	unidentified
-9	the rust	1	avar	avar	avar	avar	NA	avar
-157	the sand	1	non loan	non loan	non loan	non loan	non loan	non loan
-79	the saw	1	non loan	non loan	non loan	non loan	NA	non loan
-117	the scar	1	NA	non loan	non loan	non loan	NA	NA
-21	the school	1	russian	russian	russian	russian	russian	russian
-63	the scissors or shears	1	non loan	non loan	non loan	non loan	non loan	non loan
-52	the scythe	1	non loan	non loan	non loan	non loan	NA	unidentified
-67	the sea	1	non loan	non loan	non loan	non loan	non loan	non loan
-154	the shade or shadow	1	non loan	non loan	non loan	non loan	NA	non loan
-20	the shop/store	1	NA	NA	NA	NA	NA	NA
-20	the shop/store	1	arabic	arabic	arabic	arabic	arabic	arabic
-20	the shop/store	1	NA	NA	NA	NA	NA	NA
-53	the sickle	1	avar	avar	avar	NA	NA	non loan
-53	the sickle	1	NA	non loan	NA	NA	NA	NA
-56	the silver	1	NA	NA	NA	NA	NA	NA
-56	the silver	1	non loan	non loan	non loan	non loan	non loan	non loan
-93	the slave	1	avar	avar	unidentified	avar	avar	avar
-93	the slave	1	NA	NA	avar	NA	NA	non loan
-77	the sledge/sled	1	NA	avar	avar	avar	avar	avar
-163	the sleeve	1	turkic	turkic	unidentified	unidentified	NA	unidentified
-16	the soap	1	persian	persian	persian	persian	persian	persian
-127	the song	1	avar	avar	avar	avar	avar	avar
-50	the soup	1	turkic	turkic	turkic	turkic	turkic	russian
-62	the spade	1	persian	persian	persian	persian	persian	unidentified
-115	the spider	1	NA	non loan	non loan	non loan	non loan	non loan
-88	the spoon	1	non loan	non loan	non loan	non loan	non loan	non loan
-15	the sugar	1	persian	persian	russian	persian	persian	persian
-15	the sugar	1	NA	NA	persian	NA	NA	NA
-18	the table	1	russian	russian	russian	russian	russian	russian
-152	the tail	1	non loan	non loan	non loan	non loan	non loan	non loan
-137	the thief	1	non loan	non loan	non loan	non loan	non loan	avar
-120	the thing	1	non loan	non loan	non loan	non loan	non loan	non loan
-106	the thread	1	non loan	non loan	non loan	non loan	non loan	non loan
-48	the time	1	non loan	non loan	arabic	non loan	NA	arabic
-48	the time	1	NA	NA	non loan	NA	NA	NA
-26	the tobacco	1	avar	turkic	turkic	turkic	turkic	turkic
-86	the tongs	1	non loan	non loan	non loan	non loan	non loan	non loan
-27	the towel	1	russian	russian	russian	non loan	russian	russian
-27	the towel	1	NA	NA	non loan	NA	NA	NA
-44	the trousers	1	non loan	turkic	non loan	non loan	turkic	non loan
-44	the trousers	1	NA	non loan	NA	NA	non loan	NA
-25	the turnip	1	unidentified	NA	unidentified	unidentified	unidentified	NA
-111	the voice	1	NA	non loan	non loan	non loan	non loan	non loan
-100	the wall	1	non loan	non loan	non loan	non loan	non loan	non loan
-1	the watermelon	1	turkic	turkic	turkic	turkic	turkic	turkic
-114	the wedding	1	non loan	avar	non loan	non loan	NA	NA
-30	the week	1	non loan	non loan	non loan	non loan	non loan	non loan
-71	the wheel	1	chechen	chechen	chechen	chechen	non loan	non loan
-71	the wheel	1	NA	avar	NA	NA	NA	NA
-14	the whip	1	NA	non loan	non loan	non loan	non loan	non loan
-109	the widow	1	non loan	non loan	non loan	non loan	non loan	avar
-43	the window	1	avar	non loan	non loan	non loan	non loan	non loan
-17	the wine	1	unidentified	turkic	turkic	chechen	turkic	unidentified
-153	the wing	1	non loan	non loan	non loan	non loan	non loan	non loan
-108	the wolf	1	NA	NA	NA	NA	NA	NA
-108	the wolf	1	non loan	non loan	non loan	non loan	non loan	non loan
-96	the work	1	avar	non loan	avar	avar	NA	non loan
-150	the worm	1	non loan	non loan	non loan	non loan	non loan	avar
-150	the worm	1	avar	avar	NA	NA	NA	NA
-135	the year	1	non loan	non loan	non loan	non loan	non loan	non loan
+nr	name	160	russian translation	intersection	avar_standard_dictionary	andi_andi_dictionary	aa_source	andi_gagatli_dictionary	ag_source	andi_zilo1_2018_f_2002	az1_source	andi_zilo2_2017_m_mixed	az2_source	andi_rikvani_2017_m_1949	ar_source	botlikh_botlikh_mixed	bb_source	avar_kusur_2017_m_?	ak_source	score	azerbaijani_standard_dictionary	chechen_standard_dictionary	kumyk_standard_dictionary	doubtful
+151	the ant	1	муравей	муравей	цIунцIра	лъанц1ц1и	non loan	лъанц1ц1и	non loan	лъанц1ц1и	non loan	лъанц1и	non loan	лъанц1	non loan	танц1ц1а	non loan	ц1унц1ура	non loan	0	qarışqa	зингат	къомурсгъа	
+70	the arch	1	арка	арка	кIамури, гъапу	к1амур (также окно)	avar	к1к1амур	avar	к1к1амур	avar	к1к1амур	avar	к1к1ара	avar	к1к1амур	avar	арка	russian	7	tağ	нартол	гюмез	
+98	the axe/ax	1	топор	топор	гIащтIи		NA		NA	балта	unidentified		NA		NA		NA		NA	0				
+98	the axe/ax	1	топор	топор	гIащтIи	анжиди	non loan	анжиди	non loan	анжиди	non loan	анжиди	non loan	анжди	non loan	курт1а	non loan	ижди	unidentified	0	balta	диг	балта	1
+42	the ball	1	мяч, шар	шар(ик), мяч	торгIо (мяч)	торгьо	non loan	торгьо	non loan	торъо	non loan	торъо	non loan	торъо	non loan	к1ак1у	non loan	топ	turkic	1	топ	буьрка	топ	
+2	the barrel	1	бочка		чирмá		NA		NA	бочка	russian	шалеги	turkic		NA	пучка	russian		NA	3				
+2	the barrel	1	бочка		чирмá	NA	NA	щалеги	NA	шалеги	turkic	ведра	russian	бочка	russian	видра	russian	бочка	russian	5	данышмаг	черма	ведро	
+128	the bat	1	летучая мышь		дергело, къохьолъалкIач	NA	NA	ххикри	non loan	лъалбот1и	non loan	лъалбот1и (днем слепой)	non loan	хакара (перен. о человеке, недостойный)	non loan	дергва	non loan	къехьу	non loan	0	yarasa	NA	гечекъуш, варканат	
+113	the beak	1	клюв		гозо	NA	NA	гозо	avar	к1ол	non loan	к1ол	non loan	магьар (нос)	non loan	гозо	avar	к1урт1иб	unidentified	2	dimdik	з1ок	къуш бурун	1
+138	the beard	1	борода	борода	мегеж	мигажу	non loan	мигату	non loan	мигажу	non loan	мигажу	non loan	мигажу	non loan	мигужур	non loan	мегеж	non loan	0	saqqal	маж	сакъал	
+156	the beeswax	1	воск (пчелиный)		найил хIе	NA	NA	щир	non loan	шир	non loan	щир	non loan	щир	non loan	(перулъи) щиру	non loan	NA	NA	0	mum	балоз	балавуз	
+105	the belt	1	ремень, пояс		рачел, гIарщ, хьвацIил чIоло		NA	илъоб	non loan		NA		NA		NA		NA		NA	0				
+105	the belt	1	ремень, пояс		рачел, гIарщ, хьвацIил чIоло	рокьочул	non loan	рокьочул	non loan	рокьучул	non loan	рокьучул	non loan	NA	NA	игьабу	non loan	камар	unidentified	0	qayış (ремень)	доьхка	къайыш; белбав	1
+64	the blanket	1	одеяло	одеяло	юргъан, одеял	йургъан	turkic	йургъан	turkic	йоргъан	turkic	NA	NA	йургъан (ватное одеяло) 	turkic	адийал	russian	адиял	russian	6	yorğan	одеял	ювургъан, шаршав, тёшек шаршав	
+158	the blister	1	мозоль		гьанамагI, пинкь	NA	NA	пул	non loan	пули	non loan	рикьил1л гьанк1о (мясной гвоздь)	non loan	пул т1амид	non loan	рикьилъи гьанк1ва (мясной гвоздь)	non loan	хъабар	NA	0	qarğıdalı	къегар	къатыв	
+121	the boar	1	кабан, боров, вепрь	кабан	хъабан болъон		NA	ххунт1а	non loan		NA	хунт1а	non loan	хунт1а кунта	non loan	г1алхул болъон	avar		NA	1				
+121	the boar	1	кабан, боров, вепрь	кабан	хъабан болъон	ххунт1а	non loan	хъаман	turkic	кабан	russian	хъаман	turkic	къаман // къабан	turkic	хъапан	turkic	улх1ул босон	non loan	5	qaban	нал	къабан	
+134	the body	1	тело	тело		джаназа	arabic	черххи	avar		NA		NA		NA		NA		NA	2				
+134	the body	1	тело	тело	черх, къаркъала	гумуги	non loan	къаркъала	turkic	лага	avar	къаркъала	turkic	къаркъала	turkic	къаркъала	turkic	черх	non loan	5	bədən	дег1	къаркъара	
+134	the body	1	тело	тело		лага	avar	лага	avar	къаркъал	turkic	лага	avar	лага	avar	лага	avar	лага	non loan	6				
+35	the bottle	1	бутылка	бутылка	шиша		NA		NA		NA		NA		NA	макълашка (пластиковая)	russian		NA	1				
+35	the bottle	1	бутылка	бутылка	шиша	шиша	persian	шиша	persian	шиша	persian	шиша	persian	шиша	persian	шиша	persian	шуша	persian	7	şüşə	шиша	шиша	
+76	the boundary	1	граница, межа	граница, межа	гIурхъи	орхъи (граница)	avar	дазу	turkic	дазу	turkic	дазу	turkic	орхъи	avar	раг1а-ракьанлъи (начало-конец)	avar	сагьрат	turkic	7	sərhəd	доза	дазу	1
+141	the bow	1	лук (оружие), стрела		чIорбутI, газаргъо	лъер	non loan	лъер (также стрела)	non loan	---	NA	церцедахъи	non loan	далларгъа	unidentified	тергеч	unidentified	ох	unidentified	0	NA	NA	жая, къазарху	1
+131	the bracelet	1	браслет		курхьин		NA		NA	кверкъин	non loan		NA		NA		NA		NA	0				
+131	the bracelet	1	браслет		курхьин	кворкъин	non loan	кваркъин	non loan	браслет	russian	кверкъин	non loan	NA	NA	кваркъин	non loan	курхьин	non loan	1	bilərzik	х1оз	билезик	
+82	the bridge	1	мост		кьо	кьиру	non loan	кьиру	non loan	кьир	non loan	кьир	non loan	NA	NA	кьири	non loan	ссо	non loan	0	körpü	т1ай	кёпюр	
+136	the broom	1	метла		жул	л1арл1ал	non loan	л1арл1ал	non loan	л1арл1ал	non loan	л1арл1ал	non loan	NA	NA	бежун	non loan	рассулиб	NA	0	süpürgə	нуй	сибиртки	
+3	the bucket	1	ведро		ведро		NA	черме	unidentified		NA		NA		NA		NA		NA	0				
+3	the bucket	1	ведро		ведро	челеки	turkic	челеки	turkic	челеки	turkic	челеки	turkic	челек	turkic	NA	unidentified	ведра	russian	6	ведрə	чийлик	педире, челек	
+147	the butterfly	1	бабочка	бабочка	кIалкIучI	къат1ипа	non loan	пиринпа	non loan	одорук1а	non loan	одорук1а	non loan	ц1орц1а	non loan	сасак1у	non loan	эндулкилик (тоже мочка уха)	unidentified	0	kəpənək	полла	гюмелек	
+7	the cabbage	1	капуста (кочанная)		хъапустIан	капуста	russian	капустан	russian	капуста	russian	капуста	russian	къапуста // капуста	russian	капуста	russian	калам	turkic	7	кəлəм/käläm	копаста	къапуста	
+31	the candle	1	свеча		хIедучирахъ, нахучирахъ	NA	NA	чирахъи (лампа)	turkic	свеча	russian	NA	NA	ширл1 чирахъ	turkic	х1идул чирахъ 	turkic	свеча	russian	5	şam	ч1урам	майчыракъ	
+8	the carrot	1	морковь		ламáдур	мамадур	non loan	мамадур	non loan	мамат1ур	non loan	мамат1ур	non loan	NA	NA	ламат1ур	non loan	?	NA	0	yerkökü	ж1онка	чита	
+99	the cat	1	кошка	кот или кошка	кето, гъанцIа, гъецI	геду	unidentified	геду	unidentified	геду	unidentified	геду	unidentified	геду	unidentified	геду	unidentified	пушуй	turkic	1	pişik	цициг	мишик	
+101	the cattle	1	крупный рогатый скот	крупный рогатый скот	чIегIербоцIи, ħaywan	буц1ц1ир	non loan	бишони	non loan	бишоннол, буц1ц1ирол	non loan	буц1ц1ир, бишонно	non loan	реч1едир буц1ц1ир (черный скот), бишоннол	non loan	буц1ц1и	non loan	рухьид	unidentified	0	mal-qara	NA	къара тувар (рогатый скот)	1
+133	the cave	1	пещера	пещера	нохъо	речIчIо	non loan	реч1ч1а	non loan	пещера	russian	реч1о	non loan	реч1ч1о	non loan	реч1ч1а	non loan	нохо	non loan	1	mağara	хьех	анакъ	
+45	the chain	1	цепь	цепь	рахас, синжир	раххасси	avar	раххасси	avar	рахаси	avar	рахаси	avar	раххас	avar	раххас	avar	зинджир	turkic	7	zəncir (здесь был восклицательный знак, непонятно почему)	з1е	шынжыр	
+74	the clan	1	тухум, род	род или тухум	тухум		NA		NA		NA		NA	гьикьим (род)	unidentified		NA		NA	0				
+74	the clan	1	тухум, род	род или тухум	тухум		NA		NA		NA		NA		NA	тухум-кьибил	arabic		NA	1				
+74	the clan	1	тухум, род	род или тухум	тухум		NA		NA		NA		NA		NA	тайпа	chechen		NA	1				1
+74	the clan	1	тухум, род	род или тухум	тухум	тохум	arabic	тухум	arabic	тухум	arabic	тухум	arabic	тухум	arabic	тухум	arabic	тухум	arabic	7	tuhum	NA	тухум	1
+132	the clothing or clothes	1	одежда	одежда	ретIел-кун	ролал	non loan	ролал	non loan	роъол	non loan	роъол	non loan	рол*ал	non loan	раъалъи	non loan	рекьел	non loan	0	paltar	бедарш	опуракъ, гийим	
+104	the cock/rooster	1	петух		хIелеко	алкуци	non loan	алкуци	non loan	х1елеко	avar	х1елеко	avar	алкуци	non loan	кунт1а э2эчу	non loan	х1елеко	non loan	2	sik	борг1ал, н1аьна	хораз	
+38	the colour/color	1	цвет	цвет	кьер	босо	non loan	босо	non loan	босо	non loan	босо	non loan	босо	non loan	кьери	non loan	ранг	persian	1	рəнҝ; чичəк; ҝүл	буос	тюс, ренк, бояв	
+40	the copper	1	медь	медь	пахь		NA	йези (желтая)	turkic		NA		NA		NA		NA		NA	1				
+40	the copper	1	медь	медь	пахь	гьир	non loan	гьир (красная)	non loan	гьир	non loan	гьир	non loan	гьир	non loan	пахьи	non loan	йез	turkic	1	мис	моaз	багъыр, ез	
+95	the corpse	1	труп	труп	жаназа (человеческий), балкан (животное)		NA	рокьи	non loan		NA		NA	рокьи	non loan		NA		NA	0				
+95	the corpse	1	труп	труп	жаназа (человеческий), балкан (животное)	жъаназа	arabic	джаназа	arabic	джаназа	arabic	джаназа	arabic	джаназа	arabic	джаназа	arabic	мигьит	unidentified	6	cəsəd	дакъа	оьлген къаркъара, сюек	1
+59	the cross	1	крест		хъанч	NA	NA	хъанчи	turkic	крест	turkic	крест	turkic	хъанч (кресты, иконы)	turkic	хъанч	turkic	хач	turkic	6	keçmək	ж1ара	хач	
+34	the cup	1	чашка		чашка, чай гьекъолеб суркIа		NA		NA	чингил (тарелка)	unidentified		NA		NA		NA		NA	0				
+34	the cup	1	чашка		чашка, чай гьекъолеб суркIа	NA	NA	NA	NA	курушка	russian	чингил	unidentified	NA	NA	NA	NA	джамиб	unidentified	1	fincan	кад	чашка, пинжан	1
+102	the debt	1	долг (денежный)	долг	налъи, борч, тIадаб жо, гьабизе тIадаб иш, къарз		NA		NA		NA		NA		NA	парз	unidentified		NA	0				
+102	the debt	1	долг (денежный)	долг	налъи, борч, тIадаб жо, гьабизе тIадаб иш, къарз		NA		NA		NA		NA		NA	къарз	avar		NA	1				
+102	the debt	1	долг (денежный)	долг	налъи, борч, тIадаб жо, гьабизе тIадаб иш, къарз	налъи	avar	налъи	avar	налъи	avar	налъи	avar	налъи	avar	налъи	avar	бурдж	turkic	7	borc	юхалург	борч	
+90	the drum	1	барабан	барабан	къали	донгуди	non loan	къали	avar	къали	avar	къали	avar	къали	avar	дани	non loan	къили	non loan	4	nağara	вота	накъыра, барабан	
+69	the duck	1	утка	утка	ордек	бадуши	turkic	бадещи	turkic	бадущи	turkic	бадущи	turkic	бабущ	turkic	урдек	turkic	г1урдек	turkic	7	ördək	бад	оьрдек, бабиш	
+118	the dust	1	пыль	пыль	хIур	кьехва	non loan	кьехва	non loan	кьехва	non loan	кьехва	non loan	кьехва	non loan	дада	non loan	х1ур	non loan	0	toz	чан	чанг	
+129	the earring	1	серьга, сережка		кIилкIал (мн.ч)	гьант1ик1уч1усси	non loan	киц1у	non loan	киц1у	non loan	к1иц1убил	non loan	NA	non loan	къинкъил	non loan	к1илк1ал	non loan	0	küpe	NA	сыргъалар, гьалкъалар	
+159	the egg	1	яйцо	яйцо	хоно	к1орк1он	non loan	к1орк1он	non loan	к1орк1он	non loan	к1орк1он	non loan	к1орк1рон	non loan	к1арк1ану	non loan	х1уно	non loan	0	yumurta	х1оа	йымырткъа	
+10	the fairy tale	1	сказка		маргьа	муха	non loan	муха	non loan	муха	non loan	муха	non loan	муха	non loan	муха	non loan	х1акия	unidentified	0	nağıl; yalan;	туьйра	ёмакъ	1
+81	the family	1	семья	семья	хъизан	хъизан	avar	хъизан	avar	хъизан	avar	хъизан	avar	хъизан	avar	хъизан	avar	агьло	turkic	7	ailə	доьзал	уягьлю, агьлю	
+92	the felt	1	войлок (из чего делают бурки)		буртина		NA	гьикьубилъидйа 	non loan		NA		NA		NA	бурка	russian		NA	1				
+92	the felt	1	войлок (из чего делают бурки)		буртина	NA	NA	буртинул1и	avar	гьургу	non loan	гьургу	non loan	муртул1	non loan	буртина	avar	киртияб	unidentified	2	keçə	б1ег1иг	кийиз	1
+65	the fermented drink	1	буза		чIагIа	ч1аъа	avar	NA	NA	NA	NA	ч1ач1а	unidentified	чаъа	avar	ч1аг1а	avar	буза	russian	4	gürültü	(ячменный) ко; (просяной) мохса	боза	
+161	the firewood	1	дрова, топливо, древесина		NA	NA	NA	NA	NA	лъуди	non loan	NA	NA	NA	NA	NA	NA	NA	NA	0	NA	NA	NA	
+145	the fish	1	рыба	рыба	ччугІа	хвами	non loan	хвами	non loan	хвами	non loan	хвами	non loan	ччуъа	avar	хъва2й	non loan	булух	turkic	2	balıq	ч1ара	балыкъ	1
+60	the fist	1	кулак		зар	за	non loan	за	non loan	за	non loan	за	non loan	NA	NA	зай	non loan	зор	non loan	0	yumruq	буй	юмурукъ	
+97	the flour	1	мука (пшеничная)	мука	гIазаб, гIакъуба	ленщур	non loan	ленщур	non loan	энщур	non loan	енщур	non loan	къирл1 л*енщур	non loan	хъвахъу	non loan	г1ад	non loan	0	un	Дама	ун	
+116	the flower	1	цветок		тIегь	джинджи	non loan	джинджи	non loan	джинджи	non loan	джинджи	non loan	NA	NA	NA	NA	т1е	non loan	0	gül	лап	чечек	
+148	the footprint	1	след (ноги)	отпечаток, след (ноги)	лъакI	лъол	non loan	лъол	non loan	рикъин, лъол	non loan	лъол	non loan	лъол*	non loan	лъак1	non loan	рах	NA	0	izi	лар	гьыз	
+46	the fork	1	вилка (которой кушают)		гIучI	ц1умур	non loan	ц1умур	non loan	ц1умур	non loan	ц1умур	non loan	NA	NA	кьибтIа	non loan	яба	turkic	1	чəнҝəл	м1ара	чиш	
+85	the fork(2)/pitchfork	1	вилы (сена)		NA	к1онкьа	non loan	к1онкьа	non loan	к1венкьа	non loan	к1венкьа (вилка)	non loan	NA	NA	к1ванкьа	non loan	яба	turkic	1	yaba	шада	сенек	
+83	the friend	1	друг, приятель	друг, товарищ	гьудул	нокволл1о	non loan	ноколл1у	non loan	гьомологъи	non loan	гьомоллогъи	non loan	ноколл1у	non loan	гьудул	avar	гьудул	non loan	1	dost	Доттаг1	къурдаш, ёлдаш, ювукъ, дост ёлдаш	
+125	the frog	1	лягушка	лягушка	къверкъ	къурру	non loan	къурру	non loan	къурру	non loan	къурру	non loan	къурру	non loan	къуркъу	non loan	къеркъ	non loan	0	qurbağa	пхьид	бакъа	
+68	the garden	1	сад	сад	ах	охи	non loan	охи	non loan	ч1адил, охи	non loan	охи	non loan	охи	non loan	ахи	non loan	багъиб	persian	1	bağ	беш	бав	
+32	the glass	1	стекло	стекло	цIер (=также лёд); шиша		NA		NA		NA		NA		NA	ссурах1и	unidentified		NA	0				
+32	the glass	1	стекло	стекло	цIер (=также лёд); шиша	мат1у	non loan	мат1у	non loan	мат1у	non loan	мат1о	non loan	мат1у	non loan	мат1у	avar	айна	NA	1	şüşə	ангали	шиша	1
+41	the gold	1	золото	золото	месед	мисиди	non loan	мисиди	non loan	мисиди	non loan	мисиди	non loan	мисиди	non loan	мисиди	non loan	месед	non loan	0	гызыл	деши	алтын	
+66	the goose	1	гусь	гусь	хъаз	хъази	turkic	хъази	turkic	хъази	turkic	хъази	turkic	хъаз	turkic	хъаз	turkic	хъаз	turkic	7	dərzi ütüsü	г1аз	къаз	
+72	the grape	1	виноград	виноград	цIибил	ч1ич1ил	non loan	ч1ич1ил	non loan	ч1ич1и	non loan	ч1ич1и	non loan	ч1ич1илол	non loan	к1ик1и	non loan	ц1ибил	non loan	0	üzüm	кемсаш	юзюм	
+155	the grasshopper	1	кузнечик	кузнечик	гарцI (гьитIинаб)	гъац1а	non loan	гъац1а	non loan	гъац1ц1а	non loan	гъац1а	non loan	гъац1а	non loan	гьац1а	non loan	ц1ирт	NA	0	çəyirtkə	цаьпцалг	увакъ ченгертки	
+112	the guest	1	гость		гьобол	NA	NA	ц1ц1е	non loan	ц1ц1е	non loan	ц1ц1е	non loan	ц1ц1е	non loan	ц1ц1е	non loan	гьубол	non loan	0	qonaq	хьаша	къонакъ	
+39	the gun	1	ружьё	ружьё	туманкI		NA		NA	ярагъи	avar		NA		NA		NA		NA	1				
+39	the gun	1	ружьё	ружьё	туманкI	тупанги	turkic	тупанги	turkic	тупанги	turkic	тупанги	turkic	тванг	turkic	томонги	turkic	тупанк	turkic	7	түфəнҝ	топ	тюбек	
+73	the hammer	1	молоток	молоток	квартIа	курт1а	non loan	курт1а	non loan	курт1а	non loan	курт1а	non loan	курт1а	non loan	кварт1а	non loan	култ1а	non loan	0	çəkic	ж1ов	чёкюч	
+146	the hare	1	заяц	заяц	гIанкI	кьанк1ала	non loan	кьанк1ала	non loan	кьанк1ала	non loan	кьанк1ала	non loan	кьанк1ара	non loan	кьанк1ар	non loan	давшан	turkic	1	dovşan	Лергъяхар йу, пхьагал йу	къоян, тавшан	
+12	the herd	1	стадо (овец)		рехъéн	реда	non loan	реда	non loan	реда	non loan	реда	non loan	реда	non loan	рехъин	avar	рихен (стадо), суру (отара)	NA	1	сүрү; нахыр	бажа	сирив, йылкъы, тувар, гезив (гьайванлар)	
+107	the iron	1	железо	железо	махх	ккуб	non loan	ккуб, ц1ец1и	non loan	ккуб	non loan	ккуб	non loan	ккуб	non loan	коби	non loan	мах	non loan	0	dəmir	эчиг	темир	
+61	the joke	1	шутка		махсара	масхъара	arabic	маскъгара	arabic	масхара	arabic	масхара	arabic	масхъара	arabic	масхъара	arabic	зарфат/зарпат(?)	arabic	7	zarafat	забар	масхара, самаркъав	
+51	the lead	1	свинец (из чего пули)	свинец (из чего пули)	тIухьи	т1уши	non loan	т1уши	non loan	т1уши	non loan	т1уши	non loan	т1уши	non loan	т1уши	non loan	лух1ум	NA	0	qurğuşun	даш	къоргъашын	
+140	the lightning	1	молния		пири (тIабигIияб)	пири	avar	суннир	non loan	пири	non loan	пири	non loan	NA	NA	пири	non loan	илдирим	turkic	2	ildırım	ткъес	яшмын	
+29	the lion	1	лев	лев	гъалбацI	гъалбац1и	avar	гъалбац1и	avar	ц1иркъи (тигр), гъалбац1	avar	гъалбац1ц1и	avar	гъалбац1	avar	гъалбац1	avar	аслан	turkic	7	aslan	лом	арсланкъаплан, арслан	
+160	the lip	1	губа	губа	кIветI	сим	non loan	сунк1а	non loan	сунк1а	non loan	сунк1а	non loan	сунк1а	non loan	сими	non loan	курпил, к1вет1	unidentified	0	dodaq	балда	эрин	1
+160	the lip	1	губа	губа	кIветI		NA		NA		NA		NA		NA		NA		turkic	1				
+119	the lizard	1	ящерица	ящерица	кьинч	к1к1онччу	non loan	к1к1ойччим	non loan	кьерччин	non loan	кьерччин	non loan	к1войччин	non loan	гьургьулу	non loan	кылаз	NA	0	kərtənkələ	моьлкъа	гесертки	
+57	the lock	1	замок (навесной), ключ		кIулал, кирит, рахай	NA	NA	рек1улол	non loan	рек1ул	non loan	рек1ул	non loan	рек1улол	non loan	рек1ул	non loan	к1упул	non loan	0	qala	дог1а	кирит	
+91	the maize/corn	1	кукуруза		цIоросаролъ	гьеч1инк1а	chechen	гьеджинк1а	chechen	х1еч1инк1а	chechen	х1еч1ч1инк1а	chechen	NA	NA	цIебекъеру	non loan	къурдалиб	turkic	5	qarğıdalı	хьаьжк1а	гьабижай	1
+80	the medicine	1	лекарство	лекарство	дару, дарман	дару, дарман	persian	дару	persian	дару	persian	дару	persian	дару	persian	дару	persian	дарман	persian	7	tibb	молха	дарман	
+6	the melon	1	дыня		пастІáн1	паст1ан	turkic	паст1ан	turkic	паст1ан	turkic	паст1ан	turkic	паст1ан	turkic	паст1ан	turkic	хъоум(?)	turkic	7	говун; jемиш	паста	пастан	
+89	the mirror	1	зеркало	зеркало	матIу	мат1у	non loan	мат1у	non loan	мат1у	non loan	мат1о	non loan	гьинни гьалч1иня мат1у	non loan	мат1у	non loan	хинияб	non loan	0	güzgü	куьзга	гюзгю	
+49	the money	1	деньги	деньги	гIарац	орси	non loan	орси	non loan	орси	non loan	орси	non loan	орсси	non loan	арси	non loan	г1арац1	non loan	0	pul	ахч	акъча	
+58	the mortar(2)	1	известковый раствор		гачил раствор	NA	NA	гачи	avar	гачи	avar	гачи	avar	бергъолъиб гач (разведенный извест)	avar	гачилъи лълъени	avar	кирадж	turkic	6	minaatan	кир	киречли сув	
+22	the mule	1	мул	мул	гIорцIен	гъгъурц1им	non loan	къгурц1им	non loan	г1урц1им	non loan	г1урц1им	non loan	гурц1им	non loan	г1урц1ен	avar	г1урц1ен	non loan	1	qatır	б1арза	къачыр	
+110	the mushroom	1	гриб		гIурдахIан	махъия	non loan	бакъгакъга	non loan	хорошашуб авъара	non loan	хорошашуб авъара (папаха чабана)	non loan	NA	NA	NA	NA	чаклагъ	unidentified	0	göbələk	ж1аьлин нускал	къолкъотур	1
+84	the nail	1	гвоздь	гвоздь	магI	гьамк1во	non loan	гьанк1о	non loan	гьанк1о	non loan	гьанк1о	non loan	гьанк1о	non loan	гьанк1ва	non loan	маг1	non loan	0	dırnaq	хьостам	мых, чюй	
+94	the needle(1)	1	игла		рукIкIен	NA	NA	NA	NA	бежун	non loan	бежун	non loan	NA	NA	бежун	non loan	тüк1ен	non loan	0	iynə	маха	ине	kusur: turkic umlaut, but seems to be a native word
+130	the neighbour	1	сосед		мадугьал, аскIов гIодов чIарав чи	мадугьал	avar	мадугьал	avar	мадугьал	avar	мадугьал	avar	NA	NA	мадухал	avar	хъунши	turkic	6	qonşu	лулахо	хоншу	
+149	the nest	1	гнездо	гнездо	хIанчIибусен	бешон	non loan	бешен	non loan	щикибол1и бешен	non loan	ц1ц1умол1и бешен, щекибул1и гьакъу	non loan	бешун (=кровать)	non loan	щикибалъи бешен (кровать для птиц)	non loan	бесен	non loan	0	уя?	бен	уя	
+144	the nettle	1	крапива	крапива	мичI	мич1ч1и	non loan	мич1ч1и	non loan	мич1ч1и	non loan	мич1ч1и	non loan	мич1ч1	non loan	бегьара	non loan	миж	non loan	0	gicitkən	NA	къычыткъан	
+23	the oats	1	овёс (чем кормят лошадей)	овёс	неха (ниха)	ниха	turkic	ниха	turkic	бурч1ина	unidentified	ниха	turkic	ниха	turkic	к1алц1и (для лощадей)	non loan	угуб	unidentified	4	yulaf	сула, кена	сулу, ныха	1
+124	the orphan	1	сирота	сирота	бесдал лъимер		NA	бесдук1и	unidentified		NA		NA		NA		NA		NA	0				
+124	the orphan	1	сирота	сирота		ятим	turkic	йатим	turkic		NA		NA		NA		NA		NA	2				
+124	the orphan	1	сирота	сирота	бесдал лъимер	бесдал	avar	бесдал	avar	бесдал	avar	бесдал	avar	бесдал	avar	игьаду	non loan	йитим	turkic	6	yetim	бо	етим, оьксюз	
+142	the owl	1	сова	сова	руз		NA		NA	к1к1ов	unidentified		NA		NA		NA		NA	0				
+142	the owl	1	сова	сова	руз		NA		NA		NA		NA	бугьу	non loan	бугьу	non loan	бугургу	unidentified	0				1
+142	the owl	1	сова	сова	руз	гиггу	non loan	бугьу	non loan	руз	avar	лъалбот1и (также летучая мышь), бугьу	non loan	руз	avar	руз	avar	байкъуш	turkic	4	bayquş	бух1а	кикимав, обуръябалакъ	1
+54	the paint	1	краска	краска	лажбар, релъен		NA		NA	лажбар	avar		NA		NA		NA		NA	1				
+54	the paint	1	краска	краска	лажбар, релъен	лажбар	avar	босор	non loan	краска	russian	лажбар	avar	лажбар	avar	лажбар	avar	краска	russian	6	boya	басар, сир	бояв, сыр	
+19	the paper	1	бумага	бумага	кагъат	кагъар	persian	кагъар	persian	кагъар	persian	кагъар	persian	кагъар	persian	кагъат	persian	кагъат	persian	7	kağız	кехат	къагъыз	
+162	the partridge	1	куропатка		мокъокъ	гъвобгъво	non loan	гъобгъо	non loan	гъобгъо	non loan	гъобгъо	non loan	гъовгъо	non loan	гъабгъа	non loan	мукъокъ	non loan	0	kəklik	моша	къыр тавукъ	
+4	the pea	1	горох		хIéгьоло	гьоли	non loan	гьоли	non loan	горох	non loan	гьоли	non loan	гьолил (бобовые, фасоль, и тд, конкретно горох = горох)	non loan	гьали (общ. бобы, фасоль)	non loan	горох	russian	1	нохуд	кхоьш	нохут	
+5	the pear	1	груша		хIанчI, ген/и	гьигьи	non loan	гьи2гьи2	non loan	гьи2гьи2	non loan	гьи2гьи2	non loan	NA	NA	гьи2гьу	non loan	гениб	non loan	0	армуд	хормат	гьармут	
+24	the pencil	1	карандаш		къалам	гъгъалам	turkic	къгалам	turkic	къалам	turkic	къалам	turkic	къалам	turkic	къалам	turkic	къалам	turkic	7	karandaş	къолам, дашалг бу	карандаш	
+28	the pepper	1	перец (черный)	перец	пилпил, пучч		NA		NA	пурччи	turkic		NA		NA		NA		NA	1				
+28	the pepper	1	перец (черный)	перец	пилпил, пучч	пуччи	avar	пилпил	persian	перец	russian	пурччи	turkic	бурч	turkic	пурчч	turkic	усöт	turkic	7	bibər	бурч	бурч, жибижей, иссиот	
+103	the pig	1	свинья	свинья	болъон	ххунт1а	non loan	хунт1а	non loan	хунт1а	non loan	хунт1а	non loan	хунт1а	non loan	болъон	avar	босон	non loan	1	donuz	хьакха	донгуз	
+36	the pipe	1	трубка курительная		цIулал хъалиян, хулхул хъалиян, трубка	луллу	chechen	NA	NA	трубка	russian	лулла	chechen	муштук	russian	му2штук	russian	хъайлан	unidentified	5	boru	луьлла	юлле	1
+11	the plum	1	слива		кокó/н		NA	ч1амч1ур (поздняя слива)	non loan		NA		NA		NA		NA		NA	0				
+11	the plum	1	слива		кокó/н	кIкIуркIкIул	non loan	коком	turkic	коком	turkic	коком	turkic	коком	turkic	кокон	turkic	кулиеб	unidentified	5	ҝавалы	хьач	кокан	1
+37	the pocket	1	карман		чванта, киса	NA	NA	кисай	turkic	кисав	turkic	кисав	turkic	кисей	turkic	чанта	avar	жиби	turkic	6	ҹиб	киса	кисе	1
+75	the poison	1	яд	яд	загьру	загьру	persian	загьру	persian	загьру	persian	загьру	persian	загьру	persian	загьру	persian	загьру	persian	7	zəhər	д1овш	?	
+78	the price	1	цена	цена	багьа, къимат, мухь		NA		NA		NA		NA		NA	къимат	turkic		NA	1				
+78	the price	1	цена	цена	багьа, къимат, мухь	багьа	persian	багьа	persian	багьа	persian	багьа	persian	багьа	persian	багьа	persian	къимат	turkic	7	qiymət	мах	багьа, къыймат, гьакъ	
+55	the prison	1	тюрьма	тюрьма	туснахъ		NA	дунгил	non loan		NA		NA		NA		NA		NA	0				
+55	the prison	1	тюрьма	тюрьма	туснахъ	туснахъи	persian	туснахъи	persian	туснахъ	persian	туснахъ	persian	туснахъ	persian	туснахъ	persian	тюрма	russian	7	həbsxana	набахте	туснакъ, зиндан	
+87	the pumpkin or squash	1	тыква	тыква	хъабахъ	гъайбахъи	turkic	гъабахъи	turkic	держик1а	non loan	держик1а	non loan	хъахъ	turkic	хъабахъи	turkic	хъабахъи	turkic	5	balqabaq	г1апакх	къабакъ	
+47	the reindeer/caribou	1	олень		ритIучI	белир	non loan	белир	non loan	рит1уч1и	non loan	рит1уч1и	non loan	бел*ир	non loan	рит1уч1	non loan	марал	turkic	1	maral	сай	къубагийик	
+33	the rice	1	рис	рис	пиринчI	пиринч1и	avar	пиринч1и	persian	пулав	unidentified	пулав	unidentified	пиринч1ч1	persian	поло	unidentified	пиринч1	persian	4	düyü	дуга	дюгю	1
+126	the ring	1	кольцо		гор	ц1ц1ек1алъол	non loan	ц1ц1ек1алъол	non loan	ц1екалъол	non loan	ц1ек1алъол	non loan	NA	NA	гьецIибущу	non loan	баргъич1	unidentified	0	üzük	ч1уг	гьалкъа, юзюк, солгъу, минав	1
+143	the rope	1	веревка		квар, батIаргьин, рухьен		NA		NA	ч1ол	non loan		NA		NA		NA		NA	0				
+143	the rope	1	веревка		квар, батIаргьин, рухьен		NA	рет1омил	non loan		NA		NA		NA		NA		NA	0				
+143	the rope	1	веревка		квар, батIаргьин, рухьен	рошан	non loan	рошан	non loan	рошон	non loan	рошон	non loan	NA	NA	нашар	non loan	рухьен	avar	1	kəndir	муш	йип, аркъан	
+13	the rosary	1	четки		ч1умал	ссалатол	unidentified	ссалатол	unidentified	сайлатол	unidentified	сайлатол	unidentified	салатол	unidentified	ссаламатабалъи	unidentified	субх1ани	turkic	1	təsbeh	суьлхьанаш	зувгьанлар, тасбигьлер	1
+9	the rust	1	ржавчина		кьавý	кьагу	avar	кьав	avar	кьав	avar	кьав	avar	NA	NA	кьаму	avar	сыг1	unidentified	5	пас; боз лəкə	мекха	тот	1
+157	the sand	1	песок (строительный)	песок	сали	сур	non loan	сур	non loan	сур	non loan	сур	non loan	щур	non loan	сира	non loan	къум	turkic	1	qum	г1ум	хум, къайыр	
+79	the saw	1	пила		хъухъадиро	хъухъадир	non loan	хъухъадир	non loan	хъухъадир	non loan	хъухъадир	non loan	NA	NA	хъухъадир	non loan	хухадру	non loan	0	mişar	херх	бычгъы	
+117	the scar	1	шрам, рана		ругънал (хутIараб) гIуж	NA	NA	рикъин	non loan	анжи	non loan	анжи	non loan	NA	NA	NA	NA	NA	NA	0	çapıq	мо	яра дамгъа	
+21	the school	1	школа	школа	школа	ушкул	russian	ушкол	russian	ушкул	russian	ушкул	russian	ушкул	russian	ушкол	russian	мактаб	arabic	7	məktəb	дешант, мадрас, мактаб	школа, мактап	
+63	the scissors or shears	1	ножницы	ножницы	кIвекьмахх	исир	non loan	исир	non loan	исир	non loan	исир	non loan	иссир	non loan	к1ванкьибу	non loan	кесмах	non loan	0	qayçı	тукар	къайчы	
+52	the scythe	1	коса		харицел	ничо	non loan	ничо	non loan	ничо	non loan	ничо, хъандиро (маленькая, самодельная коса)	non loan	NA	NA	чабаги	unidentified	ч1еник	unidentified	0	NA	NA	чалгъы	1
+67	the sea	1	море	море	ралъад	релъо	non loan	релъо	non loan	релъо (озеро), море	non loan	релъо	non loan	рел1о (=ночь)	non loan	регьа	non loan	расад	non loan	0	dəniz	х1орд	денгиз	
+154	the shade or shadow	1	тень		рагIад	анччу	non loan	анччу	non loan	анччу	non loan	анччу	non loan	NA	NA	анччу	non loan	кулга	turkic	1	kölgə	1индаг1	гёлентки	
+20	the shop/store	1	магазин	магазин	тукен		NA		NA		NA		NA		NA		NA	путкаб	unidentified	0				
+20	the shop/store	1	магазин	магазин	тукен		NA		NA		NA		NA		NA		NA	тукан	turkic	1				
+20	the shop/store	1	магазин	магазин	тукен	тукан	arabic	тукан	arabic	тукен	arabic	тукен	arabic	тукен	arabic	тукан	arabic	магазин	russian	7	mağaza	туька	тюкен	1
+53	the sickle	1	серп		нилъ, хъандиро		NA	ничо	non loan		NA		NA		NA		NA		NA	0				
+53	the sickle	1	серп		нилъ, хъандиро	хъандиру	avar	хъандиро	avar	хъандиро	avar	NA	NA	NA	NA	акуранчи	non loan	нис	non loan	3	oraq	марс	оракъ	1
+56	the silver	1	серебро	серебро	гIарац		NA		NA		NA		NA		NA		NA	г1арац1	non loan	0				
+56	the silver	1	серебро	серебро	гIарац	орси	non loan	орси	non loan	орси	non loan	орси	non loan	орсси	non loan	арси	non loan	гумущ	turkic	1	gümüş	дети	гюмюш	
+93	the slave	1	раб	раб	лагъ		NA		NA	лагъи	avar		NA		NA	гъарабаш	non loan		NA	1				
+93	the slave	1	раб	раб	лагъ	лагъи	avar	лагъи	avar	бич	unidentified	лагъи	avar	лагъ	avar	лагъ	avar	нук1арав	unidentified	5	qul	Лай	къул	1
+77	the sledge/sled	1	санки		гьитIинал чанагъал	NA	NA	чанагъи	avar	чанагъобил	avar	чанагъи	avar	чанагъ	avar	чагъана	avar	санка	russian	6	na	салаз	чана, чаналар	
+163	the sleeve	1	рукав		къвал	квол	turkic	колло	turkic	квелъир	unidentified	квелъир	unidentified	NA	NA	кваха	unidentified	кунта	unidentified	2	qol	пхьош	енг	1
+16	the soap	1	мыло	мыло	сапун	ссапин	persian	ссапин	persian	сапун	persian	сапун	persian	сапин	persian	ссапун	persian	сук1ун	NA	6	сабун	саба	сапун	
+127	the song	1	песня	песня	кечI	кеч1и	avar	кеч1и	avar	кеч1и	avar	кеч1и	avar	кеч1	avar	кеч1и	avar	квейч	non loan	6	mahnı	илли, йиш, йир (не чеченская)	йыр, сарын	
+50	the soup	1	суп	суп	чурпа	чорпа	turkic	чорпа, кощи	turkic	чорпа	turkic	чорпа	turkic	ч1орпа	turkic	чурпа	russian	каша	unidentified	6	şorbası	чорпа	шорпа	
+62	the spade	1	лопата		бугьун, бел	бел	persian	бел	persian	бел	persian	бел (металлическая лопата)	persian	бел	persian	реххин	unidentified	лага	unidentified	5	kürümək	(деревянная) баьхьа; (железная) бел	бел, кюрек, лопата	1
+115	the spider	1	паук		нусиреч (къорола, гIанкабутI)	NA	NA	руххунниб	non loan	мисихвара	non loan	мисихвара	non loan	мисихвара (хвара = приступ)	non loan	нуццахир	non loan	гьум	NA	0	hörümçək	гезг	мияма, мия	
+88	the spoon	1	ложка	ложка	гъуд, балухъ, бугьун	арквом	non loan	арком	non loan	арком	non loan	арком	non loan	арком	non loan	гъеру	non loan	бугьун	non loan	0	qaşıq	1айг	къашыкъ	
+15	the sugar	1	сахар	сахар	чакар		NA		NA	чакар	persian		NA		NA		NA		NA	1				
+15	the sugar	1	сахар	сахар	чакар	чакар	persian	чакар	persian	писок	russian	чакар	persian	чакар	persian	чакар	persian	чикар	persian	7	шəкəр; гəнд	шекар	шекер	
+18	the table	1	стол	стол	стол	уст1ол	russian	уст1ол	russian	устул	russian	устул	russian	уст1ул	russian	устур	russian	стол	russian	7	маса; RUS	Оьшна, ховшаг, шун	стол	
+152	the tail	1	хвост	хвост	рачI	мигъерч1у	non loan	мигъерч1ч1у	non loan	могъорч1у	non loan	могъорч1у	non loan	мигъорч1у	non loan	мигъа	non loan	магъ	non loan	0	quyruq	ц1ога	къуйрукъ	
+137	the thief	1	вор	вор	цIогьор	лъомидо	non loan	лъомидо	non loan	лъомидо	non loan	лъомидо	non loan	лъо2йдо	non loan	ц1ц1огьор	avar	ц1огьорал	non loan	1	oğru	къу	уручу	
+120	the thing	1	вещь, предмет (вот эту вещь дай мне)	вещь, предмет	жо, предмет	дан	non loan	дан	non loan	дан	non loan	дан	non loan	дан	non loan	наа, нагъар	non loan	жо	non loan	0	şey	х1ума	зат	
+106	the thread	1	нитка	нить, нитка	квасул, чиллайдул ва гь.ц. кун	рекун	non loan	рекун	non loan	рекун	non loan	рекун	non loan	реккун	non loan	рекун	non loan	кар	NA	0	sap	тай	йип	
+48	the time	1	время		заман, мех, гIуж		NA		NA	ригьи	non loan		NA		NA		NA		NA	0				
+48	the time	1	время		заман, мех, гIуж	ригьи	non loan	ригьи	non loan	заман	arabic	ригьи	non loan	NA	NA	заман	arabic	мех	non loan	2	vaxt (здесь был восклицательный знак, непонятно почему)	хан	заман, вакъти, сагьат	
+26	the tobacco	1	табак	табак	тамахьо	тамахьу	avar	тамако	turkic	тамако	turkic	тамакко	turkic	тако	turkic	тамаку	turkic	тутун	turkic	7	tütün	тонка	тамакю	
+86	the tongs	1	щипцы, клещи	щипцы	гъецI	хуц1у	non loan	хуц1у	non loan	хуц1у	non loan	хуц1у	non loan	хуц1у	non loan	гъурц1у	non loan	кулпутун	turkic	1	maşa (щипцы)	морзах	маша, келпете	
+27	the towel	1	полотенце	полотенце	полотенце, гьумербацIцI		NA		NA	рокьучул	non loan		NA		NA		NA		NA	0				
+27	the towel	1	полотенце	полотенце	полотенце, гьумербацIцI	палатенца	russian	палатенца	russian	полотенце	russian	рокьучул	non loan	полотенце	russian	палатенца	russian	дасмал	turkic	6	dəsmal	гата	чюй явлукъ, бет явлукъ	
+44	the trousers	1	брюки	штаны, брюки	тIажу (штаны)		NA	ошкъгоги	non loan		NA		NA	охчог	non loan		NA		NA	0				
+44	the trousers	1	брюки	штаны, брюки	тIажу (штаны)	охъо	non loan	шалбарб	turkic	орчоги	non loan	орчоги	non loan	шарбал	turkic	барта	non loan	х1ебид	unidentified	2	шалвар	хеча	шалбар, иштан	
+25	the turnip	1	репа		талган	талган	unidentified	NA	NA	талган	unidentified	палган	unidentified	талган	unidentified	NA	NA	къакъаба	unidentified	0	şalğam	хорсам	турп	1
+111	the voice	1	голос		гьаракь	NA	NA	лъоч1ч1у	non loan	лъоч1ч1у	non loan	лъоч1у	non loan	лъоч1ч1у	non loan	гьач1ч1у	non loan	сас (=звук)	turkic	1	səs	аз	тавуш, аваз, сес	
+100	the wall	1	стена	стена	къед	къен	non loan	къен	non loan	къен	non loan	къен	non loan	къен	non loan	къинда	non loan	къе	non loan	0	divar	пен	там, чыр	
+1	the watermelon	1	арбуз		хъарпýз	хъалпузи	turkic	харбузи	turkic	хъарпузи	turkic	хъарпузи	turkic	харбуз	turkic	хъарпуз	turkic	хъарпуз	turkic	7	гарпыз	хорбаз	харбуз	
+114	the wedding	1	свадьба		бертин	нусхъвор	non loan	бетен	avar	рехин	non loan	рехин	non loan	NA	NA	NA	NA	бетин	non loan	1	toy	ловзар	той	
+30	the week	1	неделя	неделя	анкь	гьокьу	non loan	гьокьу	non loan	гьокьу (еще рассческа)	non loan	гьокьу	non loan	гьокьу	non loan	гьакьу	non loan	бужмар (пятница)	arabic	1	həftə	к1ира	жума	
+71	the wheel	1	колесо	колесо	гьоко, гьакибер, чарх		NA	чарххи	avar		NA		NA		NA		NA		NA	1				
+71	the wheel	1	колесо	колесо	гьоко, гьакибер, чарх	ч1уйриги	chechen	ч1уриги	chechen	ч1уреги	chechen	ч1уреги	chechen	инква	non loan	ххив	non loan	торпиб	NA	4	təkər	чкъург	дёгерчик	
+14	the whip	1	кнут, хлыст (для лошади)		цIал	NA	NA	ч1ч1артил	non loan	ч1ч1артил	non loan	ч1ч1артил	non loan	ч1арт1ил	non loan	жваркьян	non loan	сал	non loan	0	чубуг; гамчы; гырманҹä	шед	къамучу	
+109	the widow	1	вдова	вдова	къоролай	серошк1ва	non loan	серешк1и	non loan	серо йошик1ва	non loan	серо йошик1ва	non loan	серешик1а (одна-женщина), серекьа (один-человек)	non loan	къоролай	avar	къоролай	non loan	1	dul	жеро	тул къатын	
+43	the window	1	окно	окно	горду	к1амур	avar	ингур	non loan	ингур	non loan	ингур	non loan	ингур	non loan	гьингур	non loan	горгъиб	non loan	0	пəнҹəрə; дəлик; дешик	кор	терезе	
+17	the wine	1	вино	вино	чагъир, жа / простор. разг. (водка) гIаракъи	ч1ач1а (виноградная водка)	unidentified	чагъир	turkic	аракъи	turkic	чаг1а	chechen	чагъир	turkic	жана	unidentified	чигъир	turkic	5	шəраб; чахыр	чаг1ар	чагъыр (виноградное), гьаракъы (самогон)	1
+153	the wing	1	крыло (или перо)	крыло	кваркьи	лъиру	non loan	лъиру	non loan	лъиру	non loan	лъиру	non loan	лъиру	non loan	квач1и	non loan	мисер	unidentified	0	qanad	т1ам	къанат	1
+108	the wolf	1	волк	волк	бацI		NA		NA		NA		NA		NA		NA	бац1	non loan	0				
+108	the wolf	1	волк	волк	бацI	боц1о	non loan	боц1о	non loan	боц1о	non loan	боц1о	non loan	боц1ц1о	non loan	бац1а	non loan	джанвар	persian	1	canavar	борз	бёрю	
+96	the work	1	работа		хIалтIи	гьалт1и	avar	къоро	non loan	х1алт1и	avar	х1алт1и	avar	NA	NA	муху	non loan	х1алт1и	non loan	3	iş	болх	иш	
+150	the worm	1	червяк	червь, червяк	хIутI, борохь, хIапара, къвекI	ц1ц1ал1иберча (дождевой червь)	non loan	жолка	non loan	жолка	non loan	жолка	non loan	жолка	non loan	х1апара	avar	бурух, х1ашбурух (х1аш = мусор)	non loan	1	qurd	н1аьна	хурт	
+150	the worm	1	червяк	червь, червяк		гьабара (червь)	avar	гъабара	avar		NA		NA		NA		NA		NA	2				
+135	the year	1	год	год	сон, лъагIел	решин	non loan	решин	non loan	решин	non loan	решин	non loan	решин	non loan	реши	non loan	сон	non loan	0	il	шо	йыл	
